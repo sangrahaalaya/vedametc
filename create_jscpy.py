@@ -1,14 +1,17 @@
-#create_jscpy.py
+# create_jscpy.py
+
 import pandas as pd
+import string
 
 # --------------------------------------------------
 # Configuration
 # --------------------------------------------------
 
 XLSX_FILE = "panchangampdf_doc.xlsx"
-OUTPUT_FILE = "docs_A.js"
+OUTPUT_FILE = "docs_ALL.js"
 
-CATEGORY = "A"
+# 20 categories: A through T
+CATEGORIES = list(string.ascii_uppercase[:20])
 
 
 # --------------------------------------------------
@@ -19,27 +22,38 @@ df = pd.read_excel(XLSX_FILE)
 
 
 # --------------------------------------------------
-# Process only Category A
+# Clean category
 # --------------------------------------------------
 
-df = df[
+df["category"] = (
     df["category"]
     .astype(str)
     .str.strip()
     .str.upper()
-    == CATEGORY
-].copy()
+)
 
 
 # --------------------------------------------------
-# Sort Category A using Excel sort_xlsx column
+# Validate categories
 # --------------------------------------------------
 
-df["sort_xlsx"] = pd.to_numeric(df["sort_xlsx"], errors="raise")
+invalid_categories = sorted(
+    set(df["category"]) - set(CATEGORIES)
+)
 
-df = df.sort_values(
-    by="sort_xlsx",
-    ascending=True
+if invalid_categories:
+    raise ValueError(
+        f"Invalid categories found in Excel: {invalid_categories}"
+    )
+
+
+# --------------------------------------------------
+# Sort value
+# --------------------------------------------------
+
+df["sort_xlsx"] = pd.to_numeric(
+    df["sort_xlsx"],
+    errors="raise"
 )
 
 
@@ -49,42 +63,86 @@ df = df.sort_values(
 
 lines = []
 
-lines.append("const documentsA = [")
+lines.append("const documents =")
+lines.append("{")
 
-for _, row in df.iterrows():
+for category in CATEGORIES:
 
-    category = str(row["category"]).strip()
-    doc_id = str(row["id"]).strip()
-    label = str(row["label"]).strip()
-    description = str(row["description"]).strip()
-    keywords = str(row["keywords"]).strip()
-    filename = str(row["filename"]).strip()
-    font = str(row["font"]).strip()
+    # --------------------------------------------------
+    # Select this category
+    # --------------------------------------------------
 
-    # The JS sort field is NOT used for Excel ordering.
-    sort_value = int(row["sort"])
+    cat_df = df[
+        df["category"] == category
+    ].copy()
 
-    lines.append("    {")
-    #lines.append(f'        category: "{category}",')
-    lines.append(f'        id: "{doc_id}",')
-    lines.append(f'        label: "{label}",')
-    lines.append(f'        description: "{description}",')
-    lines.append(f'        keywords: "{keywords}",')
-    lines.append(f'        file: CATEGORY_A_FOLDER + "{filename}",')
-    #lines.append(f'        font: "{font}",')
-    #lines.append(f'        sort: {sort_value}')
-    lines.append("    },")
+    # --------------------------------------------------
+    # Sort this category
+    # --------------------------------------------------
 
-lines.append("];")
+    cat_df = cat_df.sort_values(
+        by="sort_xlsx",
+        ascending=True
+    )
+
+    # --------------------------------------------------
+    # Category heading
+    # --------------------------------------------------
+
+    lines.append(f"    {category}:")
+    lines.append("    [")
+
+    # --------------------------------------------------
+    # Generate documents
+    # --------------------------------------------------
+
+    for _, row in cat_df.iterrows():
+
+        doc_id = str(row["id"]).strip()
+        label = str(row["label"]).strip()
+        description = str(row["description"]).strip()
+        keywords = str(row["keywords"]).strip()
+        filename = str(row["filename"]).strip()
+
+        lines.append("        {")
+        lines.append(f'            id: "{doc_id}",')
+        lines.append(f'            label: "{label}",')
+        lines.append(f'            description: "{description}",')
+        lines.append(f'            keywords: "{keywords}",')
+        lines.append(
+            f'            file: CATEGORY_{category}_FOLDER + "{filename}",'
+        )
+        lines.append("        },")
+
+    # --------------------------------------------------
+    # End category
+    # --------------------------------------------------
+
+    lines.append("    ],")
+
+# --------------------------------------------------
+# End documents
+# --------------------------------------------------
+
+lines.append("};")
 
 
 # --------------------------------------------------
-# Write JavaScript file
+# Write JavaScript
 # --------------------------------------------------
 
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(lines))
 
 
-print(f"Processed {len(df)} Category A rows.")
+# --------------------------------------------------
+# Report
+# --------------------------------------------------
+
+print(f"Processed {len(df)} total rows.")
+
+for category in CATEGORIES:
+    count = len(df[df["category"] == category])
+    print(f"Category {category}: {count} rows")
+
 print(f"Created: {OUTPUT_FILE}")
