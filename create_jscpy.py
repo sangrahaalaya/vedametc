@@ -8,7 +8,7 @@ import string
 # --------------------------------------------------
 
 XLSX_FILE = "panchangampdf_doc.xlsx"
-OUTPUT_FILE = "docs_ALL.js"
+OUTPUT_FILE = "docs_all.js"
 
 # 20 categories: A through T
 CATEGORIES = list(string.ascii_uppercase[:20])
