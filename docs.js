@@ -1152,53 +1152,35 @@ const documents =
 //
 // Wait until page has loaded
 //
+//
+// Wait until page has loaded
+//
 document.addEventListener(
     "DOMContentLoaded",
     function ()
     {
-        document
-            .getElementById("btnCategoryA")
-            .addEventListener(
-                "click",
-                function()
-                {
-                    showCategory("A");
-                });
-
-        document
-            .getElementById("btnCategoryB")
-            .addEventListener(
-                "click",
-                function()
-                {
-                    showCategory("B");
-                });
-
-        document
-            .getElementById("btnCategoryC")
-            .addEventListener(
-                "click",
-                function()
-                {
-                    showCategory("C");
-                });
-
-        document
-            .getElementById("btnCategoryD")
-            .addEventListener(
-                "click",
-                function()
-                {
-                    showCategory("D");
-                });
+        //
+        // Add click handler for every category A-T
+        //
+        Object.keys(documents).forEach(
+            function(category)
+            {
+                document
+                    .getElementById(
+                        "btnCategory" + category)
+                    .addEventListener(
+                        "click",
+                        function()
+                        {
+                            showCategory(category);
+                        });
+            });
 
         //
         // Display Category A initially
         //
         showCategory("A");
     });
-
-
 //
 // Display one category
 //
