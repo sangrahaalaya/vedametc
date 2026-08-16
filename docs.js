@@ -35,7 +35,13 @@ document.addEventListener(
 //
 function showCategory(category)
 {
+        //
+    // Update document header
     //
+    document.getElementById("documentHeader").textContent =
+        "Documents for Category " + category;
+	
+	//
     // Highlight selected category
     //
     document
