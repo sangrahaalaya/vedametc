@@ -39,7 +39,8 @@ function showCategory(category)
     // Update document header
     //
     document.getElementById("documentHeader").textContent =
-        "Documents for Category " + category;
+    "Documents for selected category " +
+    document.getElementById("btnCategory" + category).textContent.trim();
 	
 	//
     // Highlight selected category
