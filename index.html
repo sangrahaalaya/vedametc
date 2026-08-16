@@ -37,18 +37,24 @@ button
 
 #categoryButtons
 {
-    display:flex;
-    flex-wrap:wrap;
-    justify-content:center;
-    gap:20px;
+    display:grid;
+    grid-template-columns:repeat(4, 1fr);
+    gap:12px;
     margin-bottom:25px;
 }
 
 .category
 {
-    width:180px;
+    width:100%;
 }
 
+@media (max-width:700px)
+{
+    #categoryButtons
+    {
+        grid-template-columns:repeat(2, 1fr);
+    }
+}
 
 
 #pdfButtonContainer
