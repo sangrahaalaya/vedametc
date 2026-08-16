@@ -1,19 +1,4 @@
 //
-// Documentation definitions
-//
-
-
-const CATEGORY_A_FOLDER = "pdf/categoryA/";
-const CATEGORY_B_FOLDER = "pdf/categoryB/";
-const CATEGORY_C_FOLDER = "pdf/categoryC/";
-const CATEGORY_D_FOLDER = "pdf/categoryD/";
-
-
-
-
-
-
-//
 // Wait until page has loaded
 //
 //
