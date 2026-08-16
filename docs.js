@@ -78,7 +78,7 @@ function showCategory(category)
     // Get selected documents
     //
     const list =
-    [...documents[category]];
+    documents[category] || [];
 
 	list.sort(
 	    (a, b) => a.id.localeCompare(b.id)
