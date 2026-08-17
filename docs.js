@@ -1,4 +1,4 @@
-{`//
+//
 // Wait until page has loaded
 //
 document.addEventListener(
@@ -144,4 +144,4 @@ function showCategory(category)
 
             container.appendChild(button);
         });
-}`}
+}
