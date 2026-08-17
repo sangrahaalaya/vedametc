@@ -5,10 +5,6 @@ document.addEventListener(
     "DOMContentLoaded",
     function ()
     {
-        console.log("docs.js started");
-        console.log("categories =", categories);
-        console.log("documents =", documents);
-
         //
         // Create category buttons from docs_all.js
         //
@@ -16,8 +12,8 @@ document.addEventListener(
             document.getElementById("categoryButtons");
 
         Object.keys(categories).forEach(
-    function(category)
-    {
+        function(category)
+        {
         //
         // Get documents for this category
         //
