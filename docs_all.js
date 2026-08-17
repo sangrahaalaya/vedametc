@@ -10,7 +10,7 @@ const categories =
     D: "Paarayanam",
     E: "TBD - Cat E",
     F: "TBD - Cat F",
-    G: "TBD - Cat G",
+    G: "Shri Rama",
     H: "TBD - Cat H",
     I: "TBD - Cat I",
     J: "TBD - Cat J",
@@ -1200,6 +1200,13 @@ const documents =
     ],
     G:
     [
+        {
+            id: "G001",
+            label: "Shri_hanumath_suktham",
+            description: "Shri_hanumath_suktham",
+            keywords: "Shri_hanumath_suktham",
+            file: categoryFolders.G + "Shri_hanumath_suktham.pdf",
+        },
     ],
     H:
     [
