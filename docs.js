@@ -16,29 +16,58 @@ document.addEventListener(
             document.getElementById("categoryButtons");
 
         Object.keys(categories).forEach(
-            function(category)
+    function(category)
+    {
+        //
+        // Get documents for this category
+        //
+        const list =
+            documents[category] || [];
+
+        //
+        // Check for at least one real document.
+        // The xxx000 entry is only a placeholder.
+        //
+        const hasDocument =
+            list.some(
+                function(doc)
+                {
+                    return doc.id !== category + "000";
+                });
+
+        //
+        // Do not create a category button
+        // if there are no real documents.
+        //
+        if (!hasDocument)
+        {
+            return;
+        }
+
+        //
+        // Create category button
+        //
+        const button =
+            document.createElement("button");
+
+        button.id =
+            "btnCategory" + category;
+
+        button.className =
+            "category category" + category;
+
+        button.textContent =
+            categories[category];
+
+        button.addEventListener(
+            "click",
+            function()
             {
-                const button =
-                    document.createElement("button");
-
-                button.id =
-                    "btnCategory" + category;
-
-                button.className =
-                    "category category" + category;
-
-                button.textContent =
-                    categories[category];
-
-                button.addEventListener(
-                    "click",
-                    function()
-                    {
-                        showCategory(category);
-                    });
-
-                categoryContainer.appendChild(button);
+                showCategory(category);
             });
+
+        categoryContainer.appendChild(button);
+    });
 
         //
         // Display Category A initially
