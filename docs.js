@@ -1,7 +1,4 @@
-//
-// Wait until page has loaded
-//
-//
+{`//
 // Wait until page has loaded
 //
 document.addEventListener(
@@ -9,20 +6,34 @@ document.addEventListener(
     function ()
     {
         //
-        // Add click handler for every category A-T
+        // Create category buttons from docs_all.js
         //
-        Object.keys(documents).forEach(
+        const categoryContainer =
+            document.getElementById("categoryButtons");
+
+        Object.keys(categories).forEach(
             function(category)
             {
-                document
-                    .getElementById(
-                        "btnCategory" + category)
-                    .addEventListener(
-                        "click",
-                        function()
-                        {
-                            showCategory(category);
-                        });
+                const button =
+                    document.createElement("button");
+
+                button.id =
+                    "btnCategory" + category;
+
+                button.className =
+                    "category category" + category;
+
+                button.textContent =
+                    categories[category];
+
+                button.addEventListener(
+                    "click",
+                    function()
+                    {
+                        showCategory(category);
+                    });
+
+                categoryContainer.appendChild(button);
             });
 
         //
@@ -30,19 +41,21 @@ document.addEventListener(
         //
         showCategory("A");
     });
+
+
 //
 // Display one category
 //
 function showCategory(category)
 {
-        //
+    //
     // Update document header
     //
     document.getElementById("documentHeader").textContent =
-    "Documents for selected category " +
-    document.getElementById("btnCategory" + category).textContent.trim();
-	
-	//
+        "Documents for selected category " +
+        categories[category];
+
+    //
     // Highlight selected category
     //
     document
@@ -61,8 +74,7 @@ function showCategory(category)
     // Clear previous buttons
     //
     const container =
-        document.getElementById(
-            "pdfButtonContainer");
+        document.getElementById("pdfButtonContainer");
 
     container.innerHTML = "";
 
@@ -70,53 +82,62 @@ function showCategory(category)
     // Get selected documents
     //
     const list =
-    documents[category] || [];
+        [...(documents[category] || [])];
 
-	list.sort(
-	    (a, b) => a.id.localeCompare(b.id)
-	);
-	//
+    list.sort(
+        (a, b) => a.id.localeCompare(b.id)
+    );
+
+    //
     // Create one button for each document
     //
     list.forEach(
         function(doc)
         {
             const button =
-                document.createElement(
-                    "button");
+                document.createElement("button");
 
             button.textContent =
                 doc.label;
-			button.dataset.id = doc.id;
-			
-            button.addEventListener(
-			    "click",
-			    function()
-			    {
-			        //
-			        // Remove highlight from every PDF button
-			        //
-			        document
-			            .querySelectorAll("#pdfButtonContainer button")
-			            .forEach(function(btn)
-			            {
-			                btn.classList.remove("pdfSelected");
-			            });
-			
-			        //
-			        // Highlight this button
-			        //
-			        button.classList.add("pdfSelected");
-			
-			        //
-			        // Open the PDF
-			        //
-			        window.open(
-			            doc.file,
-			            "_blank");
-			    });
 
-            container.appendChild(
-                button);
+            button.dataset.id =
+                doc.id;
+
+            button.addEventListener(
+                "click",
+                function()
+                {
+                    //
+                    // Remove highlight from every PDF button
+                    //
+                    document
+                        .querySelectorAll(
+                            "#pdfButtonContainer button"
+                        )
+                        .forEach(
+                            function(btn)
+                            {
+                                btn.classList.remove(
+                                    "pdfSelected"
+                                );
+                            });
+
+                    //
+                    // Highlight this button
+                    //
+                    button.classList.add(
+                        "pdfSelected"
+                    );
+
+                    //
+                    // Open the PDF
+                    //
+                    window.open(
+                        doc.file,
+                        "_blank"
+                    );
+                });
+
+            container.appendChild(button);
         });
-}
+}`}
