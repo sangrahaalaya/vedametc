@@ -115,7 +115,13 @@ function showCategory(category)
     // Get selected documents
     //
     const list =
-        [...(documents[category] || [])];
+    (documents[category] || [])
+        .filter(
+            function(doc)
+            {
+                return doc.id !== category + "000";
+            }
+        );
 
     list.sort(
         (a, b) => a.id.localeCompare(b.id)
