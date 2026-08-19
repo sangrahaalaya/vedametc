@@ -10,7 +10,7 @@ const categories =
     D: "Paaraayanam",
     E: "TBD - Cat E",
     F: "TBD - Cat F",
-    G: "Shri Rama",
+    G: "TBD - Cat G",
     H: "TBD - Cat H",
     I: "TBD - Cat I",
     J: "TBD - Cat J",
@@ -18,7 +18,7 @@ const categories =
     L: "TBD - Cat L",
     M: "TBD - Cat M",
     N: "TBD - Cat N",
-    O: "TBD - Cat O",
+    O: "Shri Rama",
     P: "TBD - Cat P",
     Q: "TBD - Cat Q",
     R: "TBD - Cat R",
@@ -332,13 +332,6 @@ const documents =
     ],
     G:
     [
-        {
-            id: "G001",
-            label: "Shri_hanumath_suktham",
-            description: "Shri_hanumath_suktham",
-            keywords: "Shri_hanumath_suktham",
-            file: categoryFolders.G + "Shri_hanumath_suktham.pdf",
-        },
     ],
     H:
     [
@@ -363,6 +356,34 @@ const documents =
     ],
     O:
     [
+        {
+            id: "O001",
+            label: "Rama_chaalisa",
+            description: "Rama_chaalisa",
+            keywords: "Rama_chaalisa",
+            file: categoryFolders.O + "Rama_chaalisa.pdf",
+        },
+        {
+            id: "O002",
+            label: "Shri_rama_aapaduddhaaraka_stotram",
+            description: "Shri_rama_aapaduddhaaraka_stotram",
+            keywords: "Shri_rama_aapaduddhaaraka_stotram",
+            file: categoryFolders.O + "Shri_rama_aapaduddhaaraka_stotram.pdf",
+        },
+        {
+            id: "O003",
+            label: "Shri_rama_durga_stotram",
+            description: "Shri_rama_durga_stotram",
+            keywords: "Shri_rama_durga_stotram",
+            file: categoryFolders.O + "Shri_rama_durga_stotram.pdf",
+        },
+        {
+            id: "O004",
+            label: "Shri_rama_rakshaa_stotram",
+            description: "Shri_rama_rakshaa_stotram",
+            keywords: "Shri_rama_rakshaa_stotram",
+            file: categoryFolders.O + "Shri_rama_rakshaa_stotram.pdf",
+        },
     ],
     P:
     [
