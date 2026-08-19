@@ -345,6 +345,13 @@ const documents =
             keywords: "Durga_saptashathi",
             file: categoryFolders.I + "Durga_saptashathi.pdf",
         },
+        {
+            id: "I002",
+            label: "Durga_saptashathi_dhyaanaatmaka_stotram",
+            description: "Durga_saptashathi_dhyaanaatmaka_stotram",
+            keywords: "Durga_saptashathi_dhyaanaatmaka_stotram",
+            file: categoryFolders.I + "Durga_saptashathi_dhyaanaatmaka_stotram.pdf",
+        },
     ],
     J:
     [
