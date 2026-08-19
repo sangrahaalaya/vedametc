@@ -7,12 +7,12 @@ const categories =
     A: "Vedam",
     B: "Ashtottharam",
     C: "Shlokam",
-    D: "Paaraayanam",
+    D: "Festivals",
     E: "TBD - Cat E",
     F: "TBD - Cat F",
     G: "TBD - Cat G",
     H: "TBD - Cat H",
-    I: "TBD - Cat I",
+    I: "Shri Durga",
     J: "TBD - Cat J",
     K: "TBD - Cat K",
     L: "TBD - Cat L",
@@ -318,10 +318,10 @@ const documents =
     [
         {
             id: "D001",
-            label: "Durga_saptashathi",
-            description: "Durga_saptashathi",
-            keywords: "Durga_saptashathi",
-            file: categoryFolders.D + "Durga_saptashathi.pdf",
+            label: "Yajur_upaakarma",
+            description: "Yajur_upaakarma",
+            keywords: "Yajur_upaakarma",
+            file: categoryFolders.D + "Yajur_upaakarma.pdf",
         },
     ],
     E:
@@ -338,6 +338,13 @@ const documents =
     ],
     I:
     [
+        {
+            id: "I001",
+            label: "Durga_saptashathi",
+            description: "Durga_saptashathi",
+            keywords: "Durga_saptashathi",
+            file: categoryFolders.I + "Durga_saptashathi.pdf",
+        },
     ],
     J:
     [
