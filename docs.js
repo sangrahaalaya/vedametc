@@ -4,10 +4,7 @@
 document.addEventListener(
     "DOMContentLoaded",
     function ()
-    {   //
-        // Display browser's local date and time
-        //
-        const dateTimeElement =
+            {   const dateTimeElement =
             document.getElementById("localDateTime");
         
         function updateLocalDateTime()
@@ -35,17 +32,11 @@ document.addEventListener(
                     }
                 );
         
-            const timeZone =
-                Intl.DateTimeFormat().resolvedOptions().timeZone;
-        
             dateTimeElement.textContent =
-                "Your local date/time: " +
+                "Date and time: " +
                 date +
                 " " +
-                time +
-                " (" +
-                timeZone +
-                ")";
+                time;
         }
         
         updateLocalDateTime();
@@ -53,7 +44,8 @@ document.addEventListener(
         setInterval(
             updateLocalDateTime,
             1000
-        )
+        );
+
 
         //
         // Create category buttons from docs_all.js
