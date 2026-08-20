@@ -8,22 +8,22 @@ const categories =
     B: "Ashtottharam",
     C: "Shlokam",
     D: "Festivals",
-    E: "TBD - Cat E",
-    F: "TBD - Cat F",
-    G: "TBD - Cat G",
-    H: "TBD - Cat H",
+    E: "Shri Mahaganapathi",
+    F: "Shri Mahasaraswathi",
+    G: "Shri Subrahmananya",
+    H: "Guru",
     I: "Shri Durga",
-    J: "TBD - Cat J",
-    K: "TBD - Cat K",
-    L: "TBD - Cat L",
-    M: "TBD - Cat M",
-    N: "TBD - Cat N",
+    J: "Shri Lakshmi",
+    K: "Shri Surya",
+    L: "Shri Narasimhar",
+    M: "Shri Narayana",
+    N: "Parameshwaran",
     O: "Shri Rama",
-    P: "TBD - Cat P",
-    Q: "TBD - Cat Q",
-    R: "TBD - Cat R",
-    S: "TBD - Cat S",
-    T: "TBD - Cat T",
+    P: "Shri Ayyappan",
+    Q: "Gayathri",
+    R: "Shri Lalitha",
+    S: "Navagraham",
+    T: "Shri Hanuman",
 };
 
 //
@@ -410,8 +410,22 @@ const documents =
     ],
     S:
     [
+        {
+            id: "S001",
+            label: "Navagraha_suktham",
+            description: "Navagraha_suktham",
+            keywords: "Navagraha_suktham",
+            file: categoryFolders.S + "Navagraha_suktham.pdf",
+        },
     ],
     T:
     [
+        {
+            id: "T001",
+            label: "Shri_hanumath_suktham",
+            description: "Shri_hanumath_suktham",
+            keywords: "Shri_hanumath_suktham",
+            file: categoryFolders.T + "Shri_hanumath_suktham.pdf",
+        },
     ],
 };
