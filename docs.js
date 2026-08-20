@@ -4,7 +4,57 @@
 document.addEventListener(
     "DOMContentLoaded",
     function ()
-    {
+    {   //
+        // Display browser's local date and time
+        //
+        const dateTimeElement =
+            document.getElementById("localDateTime");
+        
+        function updateLocalDateTime()
+        {
+            const now =
+                new Date();
+        
+            const date =
+                now.toLocaleDateString(
+                    undefined,
+                    {
+                        year: "numeric",
+                        month: "long",
+                        day: "numeric"
+                    }
+                );
+        
+            const time =
+                now.toLocaleTimeString(
+                    undefined,
+                    {
+                        hour: "numeric",
+                        minute: "2-digit",
+                        second: "2-digit"
+                    }
+                );
+        
+            const timeZone =
+                Intl.DateTimeFormat().resolvedOptions().timeZone;
+        
+            dateTimeElement.textContent =
+                "Your local date/time: " +
+                date +
+                " " +
+                time +
+                " (" +
+                timeZone +
+                ")";
+        }
+        
+        updateLocalDateTime();
+        
+        setInterval(
+            updateLocalDateTime,
+            1000
+        )
+
         //
         // Create category buttons from docs_all.js
         //
