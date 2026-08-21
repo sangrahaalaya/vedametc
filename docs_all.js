@@ -407,6 +407,20 @@ const documents =
     ],
     R:
     [
+        {
+            id: "R001",
+            label: "Lalitha_sahasranama_stotram",
+            description: "Lalitha_sahasranama_stotram",
+            keywords: "Lalitha_sahasranama_stotram",
+            file: categoryFolders.R + "Lalitha_sahasranama_stotram.pdf",
+        },
+        {
+            id: "R002",
+            label: "Lalitha_trishathi_stotram",
+            description: "Lalitha_trishathi_stotram",
+            keywords: "Lalitha_trishathi_stotram",
+            file: categoryFolders.R + "Lalitha_trishathi_stotram.pdf",
+        },
     ],
     S:
     [
