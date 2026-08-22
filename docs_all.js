@@ -471,9 +471,23 @@ const documents =
     ],
     P:
     [
+        {
+            id: "P001",
+            label: "Shri_Hariharaputra_Ashtotthara_shata_naamaavali",
+            description: "Shri_Hariharaputra_Ashtotthara_shata_naamaavali",
+            keywords: "Shri_Hariharaputra_Ashtotthara_shata_naamaavali",
+            file: categoryFolders.P + "Shri_Hariharaputra_Ashtotthara_shata_naamaavali.pdf",
+        },
     ],
     Q:
     [
+        {
+            id: "Q001",
+            label: "Shri_Gayathri_Stotram",
+            description: "Shri_Gayathri_Stotram",
+            keywords: "Shri_Gayathri_Stotram",
+            file: categoryFolders.Q + "Shri_Gayathri_Stotram.pdf",
+        },
     ],
     R:
     [
