@@ -400,6 +400,34 @@ const documents =
     ],
     K:
     [
+        {
+            id: "K001",
+            label: "Surya_Ashtakam",
+            description: "Surya_Ashtakam",
+            keywords: "Surya_Ashtakam",
+            file: categoryFolders.K + "Surya_Ashtakam.pdf",
+        },
+        {
+            id: "K002",
+            label: "Surya_mandala_ashtakam",
+            description: "Surya_mandala_ashtakam",
+            keywords: "Surya_mandala_ashtakam",
+            file: categoryFolders.K + "Surya_mandala_ashtakam.pdf",
+        },
+        {
+            id: "K003",
+            label: "Surya_mandala_stotram",
+            description: "Surya_mandala_stotram",
+            keywords: "Surya_mandala_stotram",
+            file: categoryFolders.K + "Surya_mandala_stotram.pdf",
+        },
+        {
+            id: "K004",
+            label: "Surya_shatakam",
+            description: "Surya_shatakam",
+            keywords: "Surya_shatakam",
+            file: categoryFolders.K + "Surya_shatakam.pdf",
+        },
     ],
     L:
     [
