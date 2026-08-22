@@ -352,9 +352,51 @@ const documents =
             keywords: "Durga_saptashathi_dhyaanaatmaka_stotram",
             file: categoryFolders.I + "Durga_saptashathi_dhyaanaatmaka_stotram.pdf",
         },
+        {
+            id: "I003",
+            label: "Aapadhunmoolana_durga_stotram",
+            description: "Aapadhunmoolana_durga_stotram",
+            keywords: "Aapadhunmoolana_durga_stotram",
+            file: categoryFolders.I + "Aapadhunmoolana_durga_stotram.pdf",
+        },
+        {
+            id: "I004",
+            label: "Mahishaasurakrutham_Devi_Stotram",
+            description: "Mahishaasurakrutham_Devi_Stotram",
+            keywords: "Mahishaasurakrutham_Devi_Stotram",
+            file: categoryFolders.I + "Mahishaasurakrutham_Devi_Stotram.pdf",
+        },
     ],
     J:
     [
+        {
+            id: "J001",
+            label: "Shri_Lakshmi_ashtotthara_shata_naama_stotram",
+            description: "Shri_Lakshmi_ashtotthara_shata_naama_stotram",
+            keywords: "Shri_Lakshmi_ashtotthara_shata_naama_stotram",
+            file: categoryFolders.J + "Shri_Lakshmi_ashtotthara_shata_naama_stotram.pdf",
+        },
+        {
+            id: "J002",
+            label: "Shri_Lakshmi_ashtotthara_shata_naamaavali",
+            description: "Shri_Lakshmi_ashtotthara_shata_naamaavali",
+            keywords: "Shri_Lakshmi_ashtotthara_shata_naamaavali",
+            file: categoryFolders.J + "Shri_Lakshmi_ashtotthara_shata_naamaavali.pdf",
+        },
+        {
+            id: "J003",
+            label: "Shri_Lakshmi_Sahasranama_stotram",
+            description: "Shri_Lakshmi_Sahasranama_stotram",
+            keywords: "Shri_Lakshmi_Sahasranama_stotram",
+            file: categoryFolders.J + "Shri_Lakshmi_Sahasranama_stotram.pdf",
+        },
+        {
+            id: "J004",
+            label: "Shri_Lakshmi_Sahasra_naamaavali",
+            description: "Shri_Lakshmi_Sahasra_naamaavali",
+            keywords: "Shri_Lakshmi_Sahasra_naamaavali",
+            file: categoryFolders.J + "Shri_Lakshmi_Sahasra_naamaavali.pdf",
+        },
     ],
     K:
     [
@@ -420,6 +462,13 @@ const documents =
             description: "Lalitha_trishathi_stotram",
             keywords: "Lalitha_trishathi_stotram",
             file: categoryFolders.R + "Lalitha_trishathi_stotram.pdf",
+        },
+        {
+            id: "R003",
+            label: "Tripurasundari_Ashtakam_stotram",
+            description: "Tripurasundari_Ashtakam_stotram",
+            keywords: "Tripurasundari_Ashtakam_stotram",
+            file: categoryFolders.R + "Tripurasundari_Ashtakam_stotram.pdf",
         },
     ],
     S:
