@@ -351,7 +351,7 @@ const documents =
             label: "Subrahmanya_ashtottaram",
             description: "Subrahmanya_ashtottaram",
             keywords: "Subrahmanya_ashtottaram",
-            file: categoryFolders.G + "Subrahmanya_ashtottaram",
+            file: categoryFolders.G + "Subrahmanya_ashtottaram.pdf",
         },
     ],
     H:
@@ -361,7 +361,7 @@ const documents =
             label: "Dakshinaamoorthy_Stotram",
             description: "Dakshinaamoorthy_Stotram",
             keywords: "Dakshinaamoorthy_Stotram",
-            file: categoryFolders.H + "Dakshinaamoorthy_Stotram",
+            file: categoryFolders.H + "Dakshinaamoorthy_Stotram.pdf",
         },
     ],
     I:
