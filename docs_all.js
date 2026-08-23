@@ -10,14 +10,14 @@ const categories =
     D: "Festivals",
     E: "Shri Mahaganapathi",
     F: "Shri Mahasaraswathi",
-    G: "Shri Subrahmananya",
-    H: "Guru",
+    G: "Shri Subrahmananyar/Murugan",
+    H: "Shri Gurubhyo Namah",
     I: "Shri Durga",
     J: "Shri Lakshmi",
-    K: "Shri Surya",
+    K: "Surya Bhagavan",
     L: "Shri Narasimhar",
-    M: "Shri Narayana",
-    N: "Parameshwaran",
+    M: "Om Namo Naaraayanaaya",
+    N: "Om Namah Shivaaya",
     O: "Shri Rama",
     P: "Shri Ayyappan",
     Q: "Gayathri",
@@ -431,12 +431,33 @@ const documents =
     ],
     L:
     [
+        {
+            id: "L001",
+            label: "Shri_Narasimha_stotram",
+            description: "Shri_Narasimha_stotram",
+            keywords: "Shri_Narasimha_stotram",
+            file: categoryFolders.L + "Shri_Narasimha_stotram.pdf",
+        },
     ],
     M:
     [
+        {
+            id: "M001",
+            label: "Achyutha_astakam",
+            description: "Achyutha_astakam",
+            keywords: "Achyutha_astakam",
+            file: categoryFolders.M + "Achyutha_astakam.pdf",
+        },
     ],
     N:
     [
+        {
+            id: "N001",
+            label: "Arda_naarishwara_ashtotthara_naamaavali",
+            description: "Arda_naarishwara_ashtotthara_naamaavali",
+            keywords: "Arda_naarishwara_ashtotthara_naamaavali",
+            file: categoryFolders.N + "Arda_naarishwara_ashtotthara_naamaavali.pdf",
+        },
     ],
     O:
     [
