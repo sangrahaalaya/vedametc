@@ -326,15 +326,43 @@ const documents =
     ],
     E:
     [
+        {
+            id: "E001",
+            label: "Shri_Ganesha_Ashtottaram",
+            description: "Shri_Ganesha_Ashtottaram",
+            keywords: "Shri_Ganesha_Ashtottaram",
+            file: categoryFolders.E + "Shri_Ganesha_Ashtottaram.pdf",
+        },
     ],
     F:
     [
+        {
+            id: "F001",
+            label: "Saraswathi_ashtottharam",
+            description: "Saraswathi_ashtottharam",
+            keywords: "Saraswathi_ashtottharam",
+            file: categoryFolders.F + "Saraswathi_ashtottharam.pdf",
+        },
     ],
     G:
     [
+        {
+            id: "G001",
+            label: "Subrahmanya_ashtottaram",
+            description: "Subrahmanya_ashtottaram",
+            keywords: "Subrahmanya_ashtottaram",
+            file: categoryFolders.G + "Subrahmanya_ashtottaram",
+        },
     ],
     H:
     [
+        {
+            id: "H001",
+            label: "Dakshinaamoorthy_Stotram",
+            description: "Dakshinaamoorthy_Stotram",
+            keywords: "Dakshinaamoorthy_Stotram",
+            file: categoryFolders.H + "Dakshinaamoorthy_Stotram",
+        },
     ],
     I:
     [
