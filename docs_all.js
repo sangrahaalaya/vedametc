@@ -1,0 +1,676 @@
+//
+// Category names
+//
+
+const categories =
+{
+    A: "Vedam",
+    B: "Ashtottharam",
+    C: "Shlokam",
+    D: "Festivals",
+    E: "Shri Mahaganapathi",
+    F: "Shri Mahasaraswathi",
+    G: "Shri Subrahmananyar/Murugan",
+    H: "Shri Gurubhyo Namah",
+    I: "Shri Durga",
+    J: "Shri Lakshmi",
+    K: "Surya Bhagavan",
+    L: "Shri Narasimhar",
+    M: "Om Namo Naaraayanaaya",
+    N: "Om Namah Shivaaya",
+    O: "Shri Rama",
+    P: "Shri Ayyappan",
+    Q: "Gayathri",
+    R: "Shri Lalitha",
+    S: "Navagraham",
+    T: "Shri Hanuman",
+};
+
+//
+// Category folders
+//
+
+const categoryFolders =
+{
+    A: "pdf/categoryA/",
+    B: "pdf/categoryB/",
+    C: "pdf/categoryC/",
+    D: "pdf/categoryD/",
+    E: "pdf/categoryE/",
+    F: "pdf/categoryF/",
+    G: "pdf/categoryG/",
+    H: "pdf/categoryH/",
+    I: "pdf/categoryI/",
+    J: "pdf/categoryJ/",
+    K: "pdf/categoryK/",
+    L: "pdf/categoryL/",
+    M: "pdf/categoryM/",
+    N: "pdf/categoryN/",
+    O: "pdf/categoryO/",
+    P: "pdf/categoryP/",
+    Q: "pdf/categoryQ/",
+    R: "pdf/categoryR/",
+    S: "pdf/categoryS/",
+    T: "pdf/categoryT/",
+};
+
+//
+// Documents
+//
+
+const documents =
+{
+    A:
+    [
+        {
+            id: "A001",
+            label: "Ganapathi_suktham_rigvedam",
+            description: "Ganapathi_suktham_rigvedam",
+            keywords: "Ganapathi_suktham_rigvedam",
+            file: categoryFolders.A + "Ganapathi_suktham_rigvedam.pdf",
+        },
+        {
+            id: "A006",
+            label: "Pavamaana_suktham",
+            description: "Pavamaana_suktham",
+            keywords: "Pavamaana_suktham",
+            file: categoryFolders.A + "Pavamaana_suktham.pdf",
+        },
+        {
+            id: "A018",
+            label: "Kumaara_suktham",
+            description: "Kumaara_suktham",
+            keywords: "Kumaara_suktham",
+            file: categoryFolders.A + "Kumaara_suktham.pdf",
+        },
+        {
+            id: "A015",
+            label: "Shri_rudram_chamakam",
+            description: "Shri_rudram_chamakam",
+            keywords: "Shri_rudram_chamakam",
+            file: categoryFolders.A + "Shri_rudram_chamakam.pdf",
+        },
+        {
+            id: "A013",
+            label: "Rudra_chamaka_krama_paatam",
+            description: "Rudra_chamaka_krama_paatam",
+            keywords: "Rudra_chamaka_krama_paatam",
+            file: categoryFolders.A + "Rudra_chamaka_krama_paatam.pdf",
+        },
+        {
+            id: "A007",
+            label: "Purusha_suktham",
+            description: "Purusha_suktham",
+            keywords: "Purusha_suktham",
+            file: categoryFolders.A + "Purusha_suktham.pdf",
+        },
+        {
+            id: "A008",
+            label: "Shri_suktham_rigvedam",
+            description: "Shri_suktham_rigvedam",
+            keywords: "Shri_suktham_rigvedam",
+            file: categoryFolders.A + "Shri_suktham_rigvedam.pdf",
+        },
+        {
+            id: "A005",
+            label: "Durga_suktham",
+            description: "Durga_suktham",
+            keywords: "Durga_suktham",
+            file: categoryFolders.A + "Durga_suktham.pdf",
+        },
+        {
+            id: "A004",
+            label: "Narayana_suktham",
+            description: "Narayana_suktham",
+            keywords: "Narayana_suktham",
+            file: categoryFolders.A + "Narayana_suktham.pdf",
+        },
+        {
+            id: "A003",
+            label: "Nakshatra_suktham",
+            description: "Nakshatra_suktham",
+            keywords: "Nakshatra_suktham",
+            file: categoryFolders.A + "Nakshatra_suktham.pdf",
+        },
+        {
+            id: "A002",
+            label: "Arunaprashnam",
+            description: "Arunaprashnam",
+            keywords: "Arunaprashnam",
+            file: categoryFolders.A + "Arunaprashnam.pdf",
+        },
+        {
+            id: "A009",
+            label: "Medha_suktham",
+            description: "Medha_suktham",
+            keywords: "Medha_suktham",
+            file: categoryFolders.A + "Medha_suktham.pdf",
+        },
+        {
+            id: "A010",
+            label: "Neela_suktham",
+            description: "Neela_suktham",
+            keywords: "Neela_suktham",
+            file: categoryFolders.A + "Neela_suktham.pdf",
+        },
+        {
+            id: "A011",
+            label: "Vishnu_suktham",
+            description: "Vishnu_suktham",
+            keywords: "Vishnu_suktham",
+            file: categoryFolders.A + "Vishnu_suktham.pdf",
+        },
+        {
+            id: "A012",
+            label: "Bhaagya_suktham",
+            description: "Bhaagya_suktham",
+            keywords: "Bhaagya_suktham",
+            file: categoryFolders.A + "Bhaagya_suktham.pdf",
+        },
+        {
+            id: "A014",
+            label: "Surya_namaskaaram_poorvaangam",
+            description: "Surya_namaskaaram_poorvaangam",
+            keywords: "Surya_namaskaaram_poorvaangam",
+            file: categoryFolders.A + "Surya_namaskaaram_poorvaangam.pdf",
+        },
+        {
+            id: "A016",
+            label: "Udaka_shanthi",
+            description: "Udaka_shanthi",
+            keywords: "Udaka_shanthi",
+            file: categoryFolders.A + "Udaka_shanthi.pdf",
+        },
+        {
+            id: "A017",
+            label: "Shiva_sthuthi",
+            description: "Shiva_sthuthi",
+            keywords: "Shiva_sthuthi",
+            file: categoryFolders.A + "Shiva_sthuthi.pdf",
+        },
+        {
+            id: "A019",
+            label: "Bhu_suktham",
+            description: "Bhu_suktham",
+            keywords: "Bhu_suktham",
+            file: categoryFolders.A + "Bhu_suktham.pdf",
+        },
+        {
+            id: "A020",
+            label: "Shri_hanumath_suktham",
+            description: "Shri_hanumath_suktham",
+            keywords: "Shri_hanumath_suktham",
+            file: categoryFolders.A + "Shri_hanumath_suktham.pdf",
+        },
+    ],
+    B:
+    [
+        {
+            id: "B001",
+            label: "Shri_Ganesha_Ashtottaram",
+            description: "Shri_Ganesha_Ashtottaram",
+            keywords: "Shri_Ganesha_Ashtottaram",
+            file: categoryFolders.B + "Shri_Ganesha_Ashtottaram.pdf",
+        },
+        {
+            id: "B002",
+            label: "Saraswathi_ashtottharam",
+            description: "Saraswathi_ashtottharam",
+            keywords: "Saraswathi_ashtottharam",
+            file: categoryFolders.B + "Saraswathi_ashtottharam.pdf",
+        },
+        {
+            id: "B003",
+            label: "Subrahmanya_ashtottaram",
+            description: "Subrahmanya_ashtottaram",
+            keywords: "Subrahmanya_ashtottaram",
+            file: categoryFolders.B + "Subrahmanya_ashtottaram.pdf",
+        },
+        {
+            id: "B004",
+            label: "Shiva_ashtottharam",
+            description: "Shiva_ashtottharam",
+            keywords: "Shiva_ashtottharam",
+            file: categoryFolders.B + "Shiva_ashtottharam.pdf",
+        },
+        {
+            id: "B005",
+            label: "Nandikeshwara_ashtottharam",
+            description: "Nandikeshwara_ashtottharam",
+            keywords: "Nandikeshwara_ashtottharam",
+            file: categoryFolders.B + "Nandikeshwara_ashtottharam.pdf",
+        },
+    ],
+    C:
+    [
+        {
+            id: "C001",
+            label: "Ganapathi_sahasranama_stotram",
+            description: "Ganapathi_sahasranama_stotram",
+            keywords: "Ganapathi_sahasranama_stotram",
+            file: categoryFolders.C + "Ganapathi_sahasranama_stotram.pdf",
+        },
+        {
+            id: "C002",
+            label: "Subrahmanya_sahasranama_stotram_tamil",
+            description: "Subrahmanya_sahasranama_stotram_tamil",
+            keywords: "Subrahmanya_sahasranama_stotram_tamil",
+            file: categoryFolders.C + "Subrahmanya_sahasranama_stotram_tamil.pdf",
+        },
+        {
+            id: "C003",
+            label: "Shiva_sahasranama_stotram",
+            description: "Shiva_sahasranama_stotram",
+            keywords: "Shiva_sahasranama_stotram",
+            file: categoryFolders.C + "Shiva_sahasranama_stotram.pdf",
+        },
+        {
+            id: "C004",
+            label: "kaalabhairava_ashtakam",
+            description: "kaalabhairava_ashtakam",
+            keywords: "kaalabhairava_ashtakam",
+            file: categoryFolders.C + "kaalabhairava_ashtakam.pdf",
+        },
+        {
+            id: "C005",
+            label: "Maargabandhu_stotram",
+            description: "Maargabandhu_stotram",
+            keywords: "Maargabandhu_stotram",
+            file: categoryFolders.C + "Maargabandhu_stotram.pdf",
+        },
+        {
+            id: "C006",
+            label: "Siva_sthuthi",
+            description: "Siva_sthuthi",
+            keywords: "Siva_sthuthi",
+            file: categoryFolders.C + "Siva_sthuthi.pdf",
+        },
+        {
+            id: "C007",
+            label: "Lalitha_trishathi_stotram",
+            description: "Lalitha_trishathi_stotram",
+            keywords: "Lalitha_trishathi_stotram",
+            file: categoryFolders.C + "Lalitha_trishathi_stotram.pdf",
+        },
+        {
+            id: "C008",
+            label: "Lalitha_sahasranama_stotram",
+            description: "Lalitha_sahasranama_stotram",
+            keywords: "Lalitha_sahasranama_stotram",
+            file: categoryFolders.C + "Lalitha_sahasranama_stotram.pdf",
+        },
+        {
+            id: "C009",
+            label: "Vishnu_sahasranama_stotram",
+            description: "Vishnu_sahasranama_stotram",
+            keywords: "Vishnu_sahasranama_stotram",
+            file: categoryFolders.C + "Vishnu_sahasranama_stotram.pdf",
+        },
+        {
+            id: "C010",
+            label: "Lakshmi_ashtottara_shata_nama_stotram",
+            description: "Lakshmi_ashtottara_shata_nama_stotram",
+            keywords: "Lakshmi_ashtottara_shata_nama_stotram",
+            file: categoryFolders.C + "Lakshmi_ashtottara_shata_nama_stotram.pdf",
+        },
+    ],
+    D:
+    [
+        {
+            id: "D001",
+            label: "Yajur_upaakarma",
+            description: "Yajur_upaakarma",
+            keywords: "Yajur_upaakarma",
+            file: categoryFolders.D + "Yajur_upaakarma.pdf",
+        },
+    ],
+    E:
+    [
+        {
+            id: "E001",
+            label: "Shri_Ganesha_Ashtottaram",
+            description: "Shri_Ganesha_Ashtottaram",
+            keywords: "Shri_Ganesha_Ashtottaram",
+            file: categoryFolders.E + "Shri_Ganesha_Ashtottaram.pdf",
+        },
+    ],
+    F:
+    [
+        {
+            id: "F001",
+            label: "Saraswathi_ashtottharam",
+            description: "Saraswathi_ashtottharam",
+            keywords: "Saraswathi_ashtottharam",
+            file: categoryFolders.F + "Saraswathi_ashtottharam.pdf",
+        },
+    ],
+    G:
+    [
+        {
+            id: "G001",
+            label: "Subrahmanya_ashtottaram",
+            description: "Subrahmanya_ashtottaram",
+            keywords: "Subrahmanya_ashtottaram",
+            file: categoryFolders.G + "Subrahmanya_ashtottaram.pdf",
+        },
+    ],
+    H:
+    [
+        {
+            id: "H001",
+            label: "Dakshinaamoorthy_Stotram",
+            description: "Dakshinaamoorthy_Stotram",
+            keywords: "Dakshinaamoorthy_Stotram",
+            file: categoryFolders.H + "Dakshinaamoorthy_Stotram.pdf",
+        },
+    ],
+    I:
+    [
+        {
+            id: "I001",
+            label: "Durga_saptashathi",
+            description: "Durga_saptashathi",
+            keywords: "Durga_saptashathi",
+            file: categoryFolders.I + "Durga_saptashathi.pdf",
+        },
+        {
+            id: "I002",
+            label: "Durga_saptashathi_dhyaanaatmaka_stotram",
+            description: "Durga_saptashathi_dhyaanaatmaka_stotram",
+            keywords: "Durga_saptashathi_dhyaanaatmaka_stotram",
+            file: categoryFolders.I + "Durga_saptashathi_dhyaanaatmaka_stotram.pdf",
+        },
+        {
+            id: "I003",
+            label: "Aapadhunmoolana_durga_stotram",
+            description: "Aapadhunmoolana_durga_stotram",
+            keywords: "Aapadhunmoolana_durga_stotram",
+            file: categoryFolders.I + "Aapadhunmoolana_durga_stotram.pdf",
+        },
+        {
+            id: "I004",
+            label: "Mahishaasurakrutham_Devi_Stotram",
+            description: "Mahishaasurakrutham_Devi_Stotram",
+            keywords: "Mahishaasurakrutham_Devi_Stotram",
+            file: categoryFolders.I + "Mahishaasurakrutham_Devi_Stotram.pdf",
+        },
+    ],
+    J:
+    [
+        {
+            id: "J001",
+            label: "Shri_Lakshmi_ashtotthara_shata_naama_stotram",
+            description: "Shri_Lakshmi_ashtotthara_shata_naama_stotram",
+            keywords: "Shri_Lakshmi_ashtotthara_shata_naama_stotram",
+            file: categoryFolders.J + "Shri_Lakshmi_ashtotthara_shata_naama_stotram.pdf",
+        },
+        {
+            id: "J002",
+            label: "Shri_Lakshmi_ashtotthara_shata_naamaavali",
+            description: "Shri_Lakshmi_ashtotthara_shata_naamaavali",
+            keywords: "Shri_Lakshmi_ashtotthara_shata_naamaavali",
+            file: categoryFolders.J + "Shri_Lakshmi_ashtotthara_shata_naamaavali.pdf",
+        },
+        {
+            id: "J003",
+            label: "Shri_Lakshmi_Sahasranama_stotram",
+            description: "Shri_Lakshmi_Sahasranama_stotram",
+            keywords: "Shri_Lakshmi_Sahasranama_stotram",
+            file: categoryFolders.J + "Shri_Lakshmi_Sahasranama_stotram.pdf",
+        },
+        {
+            id: "J004",
+            label: "Shri_Lakshmi_Sahasra_naamaavali",
+            description: "Shri_Lakshmi_Sahasra_naamaavali",
+            keywords: "Shri_Lakshmi_Sahasra_naamaavali",
+            file: categoryFolders.J + "Shri_Lakshmi_Sahasra_naamaavali.pdf",
+        },
+    ],
+    K:
+    [
+        {
+            id: "K001",
+            label: "Surya_Ashtakam",
+            description: "Surya_Ashtakam",
+            keywords: "Surya_Ashtakam",
+            file: categoryFolders.K + "Surya_Ashtakam.pdf",
+        },
+        {
+            id: "K002",
+            label: "Surya_mandala_ashtakam",
+            description: "Surya_mandala_ashtakam",
+            keywords: "Surya_mandala_ashtakam",
+            file: categoryFolders.K + "Surya_mandala_ashtakam.pdf",
+        },
+        {
+            id: "K003",
+            label: "Surya_mandala_stotram",
+            description: "Surya_mandala_stotram",
+            keywords: "Surya_mandala_stotram",
+            file: categoryFolders.K + "Surya_mandala_stotram.pdf",
+        },
+        {
+            id: "K004",
+            label: "Surya_shatakam",
+            description: "Surya_shatakam",
+            keywords: "Surya_shatakam",
+            file: categoryFolders.K + "Surya_shatakam.pdf",
+        },
+    ],
+    L:
+    [
+        {
+            id: "L001",
+            label: "Shri_Narasimha_stotram",
+            description: "Shri_Narasimha_stotram",
+            keywords: "Shri_Narasimha_stotram",
+            file: categoryFolders.L + "Shri_Narasimha_stotram.pdf",
+        },
+    ],
+    M:
+    [
+        {
+            id: "M001",
+            label: "Achyutha_astakam",
+            description: "Achyutha_astakam",
+            keywords: "Achyutha_astakam",
+            file: categoryFolders.M + "Achyutha_astakam.pdf",
+        },
+    ],
+    N:
+    [
+        {
+            id: "N001",
+            label: "Arda_naarishwara_ashtotthara_naamaavali",
+            description: "Arda_naarishwara_ashtotthara_naamaavali",
+            keywords: "Arda_naarishwara_ashtotthara_naamaavali",
+            file: categoryFolders.N + "Arda_naarishwara_ashtotthara_naamaavali.pdf",
+        },
+    ],
+    O:
+    [
+        {
+            id: "O001",
+            label: "Rama_chaalisa",
+            description: "Rama_chaalisa",
+            keywords: "Rama_chaalisa",
+            file: categoryFolders.O + "Rama_chaalisa.pdf",
+        },
+        {
+            id: "O002",
+            label: "Shri_rama_aapaduddhaaraka_stotram",
+            description: "Shri_rama_aapaduddhaaraka_stotram",
+            keywords: "Shri_rama_aapaduddhaaraka_stotram",
+            file: categoryFolders.O + "Shri_rama_aapaduddhaaraka_stotram.pdf",
+        },
+        {
+            id: "O003",
+            label: "Shri_rama_durga_stotram",
+            description: "Shri_rama_durga_stotram",
+            keywords: "Shri_rama_durga_stotram",
+            file: categoryFolders.O + "Shri_rama_durga_stotram.pdf",
+        },
+        {
+            id: "O004",
+            label: "Shri_rama_rakshaa_stotram",
+            description: "Shri_rama_rakshaa_stotram",
+            keywords: "Shri_rama_rakshaa_stotram",
+            file: categoryFolders.O + "Shri_rama_rakshaa_stotram.pdf",
+        },
+    ],
+    P:
+    [
+        {
+            id: "P001",
+            label: "Shasta_Suktam",
+            description: "Shasta_Suktam",
+            keywords: "Shasta_Suktam",
+            file: categoryFolders.P + "Shasta_Suktam.pdf",
+        },
+        {
+            id: "P002",
+            label: "Shastru_Panchaakshara_Stotram",
+            description: "Shastru_Panchaakshara_Stotram",
+            keywords: "Shastru_Panchaakshara_Stotram",
+            file: categoryFolders.P + "Shastru_Panchaakshara_Stotram.pdf",
+        },
+        {
+            id: "P003",
+            label: "Shri_Ayyappa_Dharmashasta_Trishati_Namavali",
+            description: "Shri_Ayyappa_Dharmashasta_Trishati_Namavali",
+            keywords: "Shri_Ayyappa_Dharmashasta_Trishati_Namavali",
+            file: categoryFolders.P + "Shri_Ayyappa_Dharmashasta_Trishati_Namavali.pdf",
+        },
+        {
+            id: "P004",
+            label: "Shri_Dharmashasta_Ashtottara_shata_Namavali",
+            description: "Shri_Dharmashasta_Ashtottara_shata_Namavali",
+            keywords: "Shri_Dharmashasta_Ashtottara_shata_Namavali",
+            file: categoryFolders.P + "Shri_Dharmashasta_Ashtottara_shata_Namavali.pdf",
+        },
+        {
+            id: "P005",
+            label: "Shri_Dharmashasta_Harihara_Sahasra_naama_stotram",
+            description: "Shri_Dharmashasta_Harihara_Sahasra_naama_stotram",
+            keywords: "Shri_Dharmashasta_Harihara_Sahasra_naama_stotram",
+            file: categoryFolders.P + "Shri_Dharmashasta_Harihara_Sahasra_naama_stotram.pdf",
+        },
+        {
+            id: "P006",
+            label: "Shri_Dharmashasta_Sahasranamavali",
+            description: "Shri_Dharmashasta_Sahasranamavali",
+            keywords: "Shri_Dharmashasta_Sahasranamavali",
+            file: categoryFolders.P + "Shri_Dharmashasta_Sahasranamavali.pdf",
+        },
+        {
+            id: "P007",
+            label: "Shri_Dharmashastuhu_Pancharatna",
+            description: "Shri_Dharmashastuhu_Pancharatna",
+            keywords: "Shri_Dharmashastuhu_Pancharatna",
+            file: categoryFolders.P + "Shri_Dharmashastuhu_Pancharatna.pdf",
+        },
+        {
+            id: "P008",
+            label: "Shri_Harihara_aatmaja_ashtakam",
+            description: "Shri_Harihara_aatmaja_ashtakam",
+            keywords: "Shri_Harihara_aatmaja_ashtakam",
+            file: categoryFolders.P + "Shri_Harihara_aatmaja_ashtakam.pdf",
+        },
+        {
+            id: "P009",
+            label: "Shri_Hariharaputra_Ashtotthara_shata_naamaavali",
+            description: "Shri_Hariharaputra_Ashtotthara_shata_naamaavali",
+            keywords: "Shri_Hariharaputra_Ashtotthara_shata_naamaavali",
+            file: categoryFolders.P + "Shri_Hariharaputra_Ashtotthara_shata_naamaavali.pdf",
+        },
+        {
+            id: "P010",
+            label: "shri_Hariharaputra_shasta_shabarigirIsha_abhinna_puja _vidhi",
+            description: "shri_Hariharaputra_shasta_shabarigirIsha_abhinna_puja _vidhi",
+            keywords: "shri_Hariharaputra_shasta_shabarigirIsha_abhinna_puja _vidhi",
+            file: categoryFolders.P + "shri_Hariharaputra_shasta_shabarigirIsha_abhinna_puja _vidhi.pdf",
+        },
+        {
+            id: "P011",
+            label: "Shri_Shasta_keshadipadanta_Varnana_Stotram",
+            description: "Shri_Shasta_keshadipadanta_Varnana_Stotram",
+            keywords: "Shri_Shasta_keshadipadanta_Varnana_Stotram",
+            file: categoryFolders.P + "Shri_Shasta_keshadipadanta_Varnana_Stotram.pdf",
+        },
+        {
+            id: "P012",
+            label: "Shri_Shastru_sha_varna sahasra_naama_stotram",
+            description: "Shri_Shastru_sha_varna sahasra_naama_stotram",
+            keywords: "Shri_Shastru_sha_varna sahasra_naama_stotram",
+            file: categoryFolders.P + "Shri_Shastru_sha_varna sahasra_naama_stotram.pdf",
+        },
+        {
+            id: "P013",
+            label: "Shri_Shastru_sha_varna_sahasra_naamaavalihi",
+            description: "Shri_Shastru_sha_varna_sahasra_naamaavalihi",
+            keywords: "Shri_Shastru_sha_varna_sahasra_naamaavalihi",
+            file: categoryFolders.P + "Shri_Shastru_sha_varna_sahasra_naamaavalihi.pdf",
+        },
+        {
+            id: "P014",
+            label: "Shri_Hariharaputra_Maalaa_mantraha",
+            description: "Shri_Hariharaputra_Maalaa_mantraha",
+            keywords: "Shri_Hariharaputra_Maalaa_mantraha",
+            file: categoryFolders.P + "Shri_Hariharaputra_Maalaa_mantraha.pdf",
+        },
+    ],
+    Q:
+    [
+        {
+            id: "Q001",
+            label: "Shri_Gayathri_Stotram",
+            description: "Shri_Gayathri_Stotram",
+            keywords: "Shri_Gayathri_Stotram",
+            file: categoryFolders.Q + "Shri_Gayathri_Stotram.pdf",
+        },
+    ],
+    R:
+    [
+        {
+            id: "R001",
+            label: "Lalitha_sahasranama_stotram",
+            description: "Lalitha_sahasranama_stotram",
+            keywords: "Lalitha_sahasranama_stotram",
+            file: categoryFolders.R + "Lalitha_sahasranama_stotram.pdf",
+        },
+        {
+            id: "R002",
+            label: "Lalitha_trishathi_stotram",
+            description: "Lalitha_trishathi_stotram",
+            keywords: "Lalitha_trishathi_stotram",
+            file: categoryFolders.R + "Lalitha_trishathi_stotram.pdf",
+        },
+        {
+            id: "R003",
+            label: "Tripurasundari_Ashtakam_stotram",
+            description: "Tripurasundari_Ashtakam_stotram",
+            keywords: "Tripurasundari_Ashtakam_stotram",
+            file: categoryFolders.R + "Tripurasundari_Ashtakam_stotram.pdf",
+        },
+    ],
+    S:
+    [
+        {
+            id: "S001",
+            label: "Navagraha_suktham",
+            description: "Navagraha_suktham",
+            keywords: "Navagraha_suktham",
+            file: categoryFolders.S + "Navagraha_suktham.pdf",
+        },
+    ],
+    T:
+    [
+        {
+            id: "T001",
+            label: "Shri_hanumath_suktham",
+            description: "Shri_hanumath_suktham",
+            keywords: "Shri_hanumath_suktham",
+            file: categoryFolders.T + "Shri_hanumath_suktham.pdf",
+        },
+    ],
+};
