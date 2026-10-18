@@ -363,6 +363,20 @@ const documents =
             keywords: "Dakshinaamoorthy_Stotram",
             file: categoryFolders.H + "Dakshinaamoorthy_Stotram.pdf",
         },
+        {
+            id: "H002",
+            label: "HH_Shri_Bodhendra_dwadasha_namaskara_stotram",
+            description: "HH_Shri_Bodhendra_dwadasha_namaskara_stotram",
+            keywords: "HH_Shri_Bodhendra_dwadasha_namaskara_stotram",
+            file: categoryFolders.H + "HH_Shri_Bodhendra_dwadasha_namaskara_stotram.pdf",
+        },
+        {
+            id: "H003",
+            label: "HH_Shri_Bodhendra_dwadasha_namaskara_stotram_tamil",
+            description: "HH_Shri_Bodhendra_dwadasha_namaskara_stotram_tamil",
+            keywords: "HH_Shri_Bodhendra_dwadasha_namaskara_stotram_tamil",
+            file: categoryFolders.H + "HH_Shri_Bodhendra_dwadasha_namaskara_stotram_tamil.pdf",
+        },
     ],
     I:
     [
