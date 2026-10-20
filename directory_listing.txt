@@ -1,0 +1,634 @@
+Directory listing: /Users/ashokkrishnamoorthy/Documents/sangrahaalaya
+
+backup from panchangamnow app/
+    index.txt
+    script.js
+Category A folder Vedam/
+    .DS_Store
+    Arunaprashnam.pdf
+    Bhaagya_suktham.pdf
+    Bhu_suktham.pdf
+    Durga_suktham.pdf
+    Ganapathi_suktham_rigvedam.pdf
+    Hiranyagarbha_suktham.pdf
+    Kaanvana_oshadhi_suktham.pdf
+    Kumaara_suktham.pdf
+    Maddhyandinanama_oshadhyanuvakah.pdf
+    Manyu_suktham.pdf
+    Medha_suktham.pdf
+    Nakshatra_suktham.pdf
+    Narayana_suktham.pdf
+    Neela_suktham.pdf
+    Oshadhi_suktam_rigvedam.pdf
+    Oshadhi_suktham_taitthireeya_samhita.pdf
+    Pavamaana_suktham.pdf
+    Purusha_suktham.pdf
+    Rathri_suktham.pdf
+    Rathri_suktham_rigveda.pdf
+    Rudra_chamaka_krama_paatam.pdf
+    Sarpa _suktham1.pdf
+    Sarpa_suktham2.pdf
+    Sarpa_suktham3.pdf
+    Shiva_sthuthi.pdf
+    Shri_hanumath_suktham.pdf
+    Shri_rudram_chamakam.pdf
+    Shri_suktaartha_sangrahah.pdf
+    Shri_suktham_rigvedam.pdf
+    Surya_namaskaaram_poorvaangam.pdf
+    Swasthi_suktham.pdf
+    Tantroktam_rathri_suktham.pdf
+    Udaka_shanthi.pdf
+    Vishnu_suktham.pdf
+Category B folder Ashtottharam/
+    .DS_Store
+    Nandikeshwara_ashtottharam.pdf
+    Saraswathi_ashtottharam.pdf
+    Shiva_ashtottharam.pdf
+    Shri_Ganesha_Ashtottaram.pdf
+    Subrahmanya_ashtottaram.pdf
+Category C folder Shlokam/
+    .DS_Store
+    Ganapathi_sahasranama_stotram.pdf
+    kaalabhairava_ashtakam.pdf
+    Lakshmi_ashtottara_shata_nama_stotram.pdf
+    Lalitha_sahasranama_stotram.pdf
+    Lalitha_trishathi_stotram.pdf
+    Maargabandhu_stotram.pdf
+    Shiva_sahasranama_stotram.pdf
+    Siva_sthuthi.pdf
+    Subrahmanya_sahasranama_stotram_tamil.pdf
+    Vishnu_sahasranama_stotram.pdf
+Category D folder Festivals/
+    .DS_Store
+    Yajur_upaakarma.pdf
+Category E folder Shri Mahaganapathy/
+    .DS_Store
+    Shri_Ganesha_Ashtottaram.pdf
+Category F folder Shri Mahasaraswathi/
+    .DS_Store
+    Saraswathi_ashtottharam.pdf
+Category G folder Shri Subramanya:Murugan/
+    .DS_Store
+    Subrahmanya_ashtottaram.pdf
+Category H folder Guru/
+    .DS_Store
+    Dakshinaamoorthy_Stotram.pdf
+    Gurvashtakam.pdf
+    HH_Shri_Bodhendra_dwadasha_namaskara_stotram.pdf
+    HH_Shri_Bodhendra_dwadasha_namaskara_stotram_tamil.pdf
+Category I folder Shri Durga/
+    .DS_Store
+    Aapadhunmoolana_durga_stotram.pdf
+    Annapoorna_ashtakam.pdf
+    Annapoorna_ashtotthara_shata_naama_stotram.pdf
+    Annapoorna_ashtotthara_shata_naamaavali.pdf
+    Annapoorna_bhagavati_puraatana_pureshwari_stava.pdf
+    Annapoorna_kavacham.pdf
+    Annapoorna_sahasra_naama_stotram.pdf
+    Annapoorna_sahasra_naamaavali.pdf
+    Annapoorna_stava.pdf
+    Annapoorna_stotram.pdf
+    Annapoorna_stotram_shankaracharya_virachitam.pdf
+    Annapoorna_upanishad.pdf
+    Durga_saptashathi.pdf
+    Durga_saptashathi_dhyaanaatmaka_stotram.pdf
+    Mahishaasurakrutham_Devi_Stotram.pdf
+Category J folder Shri Lakshmi/
+    .DS_Store
+    Shri_Lakshmi_ashtotthara_shata_naama_stotram.pdf
+    Shri_Lakshmi_ashtotthara_shata_naamaavali.pdf
+    Shri_Lakshmi_Sahasra_naamaavali.pdf
+    Shri_Lakshmi_Sahasranama_stotram.pdf
+Category K folder Shri Surya/
+    .DS_Store
+    Adithya_hrudayam.pdf
+    Surya_Ashtakam.pdf
+    Surya_mandala_ashtakam.pdf
+    Surya_mandala_stotram.pdf
+    Surya_shatakam.pdf
+Category L folder Shri Narashimhar/
+    .DS_Store
+    Shri_Narasimha_stotram.pdf
+Category M folder Om Namo Naaraayanaaya/
+    .DS_Store
+    Achyutha_astakam.pdf
+Category N folder Om Namah Shivaaya/
+    .DS_Store
+    Arda_naarishwara_ashtotthara_naamaavali.pdf
+Category O folder Shri Rama/
+    .DS_Store
+    Rama_chaalisa.pdf
+    Shri_rama_aapaduddhaaraka_stotram.pdf
+    Shri_rama_durga_stotram.pdf
+    Shri_rama_rakshaa_stotram.pdf
+Category P folder Shri Ayyappan/
+    .DS_Store
+    Shasta_Suktam.pdf
+    Shastru_Panchaakshara_Stotram.pdf
+    Shri_Ayyappa_Dharmashasta_Trishati_Namavali.pdf
+    Shri_Dharmashasta_Ashtottara_shata_Namavali.pdf
+    Shri_Dharmashasta_Harihara_Sahasra_naama_stotram.pdf
+    Shri_Dharmashasta_Sahasranamavali.pdf
+    Shri_Dharmashastuhu_Pancharatna.pdf
+    Shri_Harihara_aatmaja_ashtakam.pdf
+    Shri_Hariharaputra_Ashtotthara_shata_naamaavali.pdf
+    Shri_Hariharaputra_Maalaa_mantraha.pdf
+    shri_Hariharaputra_shasta_shabarigirIsha_abhinna_puja _vidhi.pdf
+    Shri_Shasta_keshadipadanta_Varnana_Stotram.pdf
+    Shri_Shastru_sha_varna sahasra_naama_stotram.pdf
+    Shri_Shastru_sha_varna_sahasra_naamaavalihi.pdf
+Category Q folder Gayathri/
+    .DS_Store
+    Adithya_Gayathri.pdf
+    Brahma_Gayathri.pdf
+    Chandra_Gayathri.pdf
+    Dhanvanthri.pdf
+    Durga_Gayathri.pdf
+    Ganapathy_Gayathri.pdf
+    Garuda_Gayathri.pdf
+    Lakshmi_Gayathri.pdf
+    Rudra_Gayathri.pdf
+    Shri_Gayathri_Stotram.pdf
+    Subrahmanya_Gayathri.pdf
+    Surya_Gayathri.pdf
+    Vani_Gayathri.pdf
+    Vishnu_Gayathri.pdf
+Category R folder Lalitha/
+    .DS_Store
+    Lalitha_sahasranama_stotram.pdf
+    Lalitha_trishathi_stotram.pdf
+    Tripurasundari_Ashtakam_stotram.pdf
+Category S folder Navagraham/
+    .DS_Store
+    Navagraha_suktham.pdf
+Category T folder Shri Hanuman/
+    .DS_Store
+    Shri_hanumath_suktham.pdf
+Extra ayyappan shlokams Category P folder/
+    .DS_Store
+    Dharmashasta or Harihara SahasranAmastotram.pdf
+    Shasta Suktam.pdf
+    ShastrishavarNa sahasranAmastotram.pdf
+    ShastrishavarNa sahasranAmAvaliH.pdf
+    ShAstrri Panchakshara Stotram.pdf
+    Shri Ayyappa or Dharmashasta Trishati Namavali 300 Names.pdf
+    Shri Dharmashasta Ashtottarashata Namavalih.pdf
+    Shri Dharmashasta Sahasranamavali.pdf
+    Shri Dharmashastu Pancharatna.pdf
+    shrI hariharaputra mAlAmantraH.pdf
+    shrI hariharAtmajAShTakam.pdf
+    Shri Shastakeshadipadanta Varnana Stotram.pdf
+    shrIhariharaputra shAstA shabarigirIshAbhinna pUjA vidhi.pdf
+fonts/
+    Noto_Sans_Devanagari/
+        static/
+            NotoSansDevanagari-Black.ttf
+            NotoSansDevanagari-Bold.ttf
+            NotoSansDevanagari-ExtraBold.ttf
+            NotoSansDevanagari-ExtraLight.ttf
+            NotoSansDevanagari-Light.ttf
+            NotoSansDevanagari-Medium.ttf
+            NotoSansDevanagari-Regular.ttf
+            NotoSansDevanagari-SemiBold.ttf
+            NotoSansDevanagari-Thin.ttf
+            NotoSansDevanagari_Condensed-Black.ttf
+            NotoSansDevanagari_Condensed-Bold.ttf
+            NotoSansDevanagari_Condensed-ExtraBold.ttf
+            NotoSansDevanagari_Condensed-ExtraLight.ttf
+            NotoSansDevanagari_Condensed-Light.ttf
+            NotoSansDevanagari_Condensed-Medium.ttf
+            NotoSansDevanagari_Condensed-Regular.ttf
+            NotoSansDevanagari_Condensed-SemiBold.ttf
+            NotoSansDevanagari_Condensed-Thin.ttf
+            NotoSansDevanagari_ExtraCondensed-Black.ttf
+            NotoSansDevanagari_ExtraCondensed-Bold.ttf
+            NotoSansDevanagari_ExtraCondensed-ExtraBold.ttf
+            NotoSansDevanagari_ExtraCondensed-ExtraLight.ttf
+            NotoSansDevanagari_ExtraCondensed-Light.ttf
+            NotoSansDevanagari_ExtraCondensed-Medium.ttf
+            NotoSansDevanagari_ExtraCondensed-Regular.ttf
+            NotoSansDevanagari_ExtraCondensed-SemiBold.ttf
+            NotoSansDevanagari_ExtraCondensed-Thin.ttf
+            NotoSansDevanagari_SemiCondensed-Black.ttf
+            NotoSansDevanagari_SemiCondensed-Bold.ttf
+            NotoSansDevanagari_SemiCondensed-ExtraBold.ttf
+            NotoSansDevanagari_SemiCondensed-ExtraLight.ttf
+            NotoSansDevanagari_SemiCondensed-Light.ttf
+            NotoSansDevanagari_SemiCondensed-Medium.ttf
+            NotoSansDevanagari_SemiCondensed-Regular.ttf
+            NotoSansDevanagari_SemiCondensed-SemiBold.ttf
+            NotoSansDevanagari_SemiCondensed-Thin.ttf
+        .DS_Store
+        NotoSansDevanagari-Regular.ttf
+        NotoSansDevanagari-VariableFont_wdth,wght.ttf
+        OFL.txt
+        README.txt
+    Noto_Sans_Devanagari,Noto_Sans_Kannada,Noto_Sans_Malayalam,Noto_Sans_Tamil,Noto_Sans_Telugu/
+        Noto_Sans_Devanagari/
+            static/
+                NotoSansDevanagari-Black.ttf
+                NotoSansDevanagari-Bold.ttf
+                NotoSansDevanagari-ExtraBold.ttf
+                NotoSansDevanagari-ExtraLight.ttf
+                NotoSansDevanagari-Light.ttf
+                NotoSansDevanagari-Medium.ttf
+                NotoSansDevanagari-Regular.ttf
+                NotoSansDevanagari-SemiBold.ttf
+                NotoSansDevanagari-Thin.ttf
+                NotoSansDevanagari_Condensed-Black.ttf
+                NotoSansDevanagari_Condensed-Bold.ttf
+                NotoSansDevanagari_Condensed-ExtraBold.ttf
+                NotoSansDevanagari_Condensed-ExtraLight.ttf
+                NotoSansDevanagari_Condensed-Light.ttf
+                NotoSansDevanagari_Condensed-Medium.ttf
+                NotoSansDevanagari_Condensed-Regular.ttf
+                NotoSansDevanagari_Condensed-SemiBold.ttf
+                NotoSansDevanagari_Condensed-Thin.ttf
+                NotoSansDevanagari_ExtraCondensed-Black.ttf
+                NotoSansDevanagari_ExtraCondensed-Bold.ttf
+                NotoSansDevanagari_ExtraCondensed-ExtraBold.ttf
+                NotoSansDevanagari_ExtraCondensed-ExtraLight.ttf
+                NotoSansDevanagari_ExtraCondensed-Light.ttf
+                NotoSansDevanagari_ExtraCondensed-Medium.ttf
+                NotoSansDevanagari_ExtraCondensed-Regular.ttf
+                NotoSansDevanagari_ExtraCondensed-SemiBold.ttf
+                NotoSansDevanagari_ExtraCondensed-Thin.ttf
+                NotoSansDevanagari_SemiCondensed-Black.ttf
+                NotoSansDevanagari_SemiCondensed-Bold.ttf
+                NotoSansDevanagari_SemiCondensed-ExtraBold.ttf
+                NotoSansDevanagari_SemiCondensed-ExtraLight.ttf
+                NotoSansDevanagari_SemiCondensed-Light.ttf
+                NotoSansDevanagari_SemiCondensed-Medium.ttf
+                NotoSansDevanagari_SemiCondensed-Regular.ttf
+                NotoSansDevanagari_SemiCondensed-SemiBold.ttf
+                NotoSansDevanagari_SemiCondensed-Thin.ttf
+            NotoSansDevanagari-VariableFont_wdth,wght.ttf
+            OFL.txt
+            README.txt
+        Noto_Sans_Kannada/
+            static/
+                NotoSansKannada-Black.ttf
+                NotoSansKannada-Bold.ttf
+                NotoSansKannada-ExtraBold.ttf
+                NotoSansKannada-ExtraLight.ttf
+                NotoSansKannada-Light.ttf
+                NotoSansKannada-Medium.ttf
+                NotoSansKannada-Regular.ttf
+                NotoSansKannada-SemiBold.ttf
+                NotoSansKannada-Thin.ttf
+                NotoSansKannada_Condensed-Black.ttf
+                NotoSansKannada_Condensed-Bold.ttf
+                NotoSansKannada_Condensed-ExtraBold.ttf
+                NotoSansKannada_Condensed-ExtraLight.ttf
+                NotoSansKannada_Condensed-Light.ttf
+                NotoSansKannada_Condensed-Medium.ttf
+                NotoSansKannada_Condensed-Regular.ttf
+                NotoSansKannada_Condensed-SemiBold.ttf
+                NotoSansKannada_Condensed-Thin.ttf
+                NotoSansKannada_ExtraCondensed-Black.ttf
+                NotoSansKannada_ExtraCondensed-Bold.ttf
+                NotoSansKannada_ExtraCondensed-ExtraBold.ttf
+                NotoSansKannada_ExtraCondensed-ExtraLight.ttf
+                NotoSansKannada_ExtraCondensed-Light.ttf
+                NotoSansKannada_ExtraCondensed-Medium.ttf
+                NotoSansKannada_ExtraCondensed-Regular.ttf
+                NotoSansKannada_ExtraCondensed-SemiBold.ttf
+                NotoSansKannada_ExtraCondensed-Thin.ttf
+                NotoSansKannada_SemiCondensed-Black.ttf
+                NotoSansKannada_SemiCondensed-Bold.ttf
+                NotoSansKannada_SemiCondensed-ExtraBold.ttf
+                NotoSansKannada_SemiCondensed-ExtraLight.ttf
+                NotoSansKannada_SemiCondensed-Light.ttf
+                NotoSansKannada_SemiCondensed-Medium.ttf
+                NotoSansKannada_SemiCondensed-Regular.ttf
+                NotoSansKannada_SemiCondensed-SemiBold.ttf
+                NotoSansKannada_SemiCondensed-Thin.ttf
+            .DS_Store
+            NotoSansKannada-VariableFont_wdth,wght.ttf
+            OFL.txt
+            README.txt
+        Noto_Sans_Malayalam/
+            static/
+                NotoSansMalayalam-Black.ttf
+                NotoSansMalayalam-Bold.ttf
+                NotoSansMalayalam-ExtraBold.ttf
+                NotoSansMalayalam-ExtraLight.ttf
+                NotoSansMalayalam-Light.ttf
+                NotoSansMalayalam-Medium.ttf
+                NotoSansMalayalam-Regular.ttf
+                NotoSansMalayalam-SemiBold.ttf
+                NotoSansMalayalam-Thin.ttf
+                NotoSansMalayalam_Condensed-Black.ttf
+                NotoSansMalayalam_Condensed-Bold.ttf
+                NotoSansMalayalam_Condensed-ExtraBold.ttf
+                NotoSansMalayalam_Condensed-ExtraLight.ttf
+                NotoSansMalayalam_Condensed-Light.ttf
+                NotoSansMalayalam_Condensed-Medium.ttf
+                NotoSansMalayalam_Condensed-Regular.ttf
+                NotoSansMalayalam_Condensed-SemiBold.ttf
+                NotoSansMalayalam_Condensed-Thin.ttf
+                NotoSansMalayalam_ExtraCondensed-Black.ttf
+                NotoSansMalayalam_ExtraCondensed-Bold.ttf
+                NotoSansMalayalam_ExtraCondensed-ExtraBold.ttf
+                NotoSansMalayalam_ExtraCondensed-ExtraLight.ttf
+                NotoSansMalayalam_ExtraCondensed-Light.ttf
+                NotoSansMalayalam_ExtraCondensed-Medium.ttf
+                NotoSansMalayalam_ExtraCondensed-Regular.ttf
+                NotoSansMalayalam_ExtraCondensed-SemiBold.ttf
+                NotoSansMalayalam_ExtraCondensed-Thin.ttf
+                NotoSansMalayalam_SemiCondensed-Black.ttf
+                NotoSansMalayalam_SemiCondensed-Bold.ttf
+                NotoSansMalayalam_SemiCondensed-ExtraBold.ttf
+                NotoSansMalayalam_SemiCondensed-ExtraLight.ttf
+                NotoSansMalayalam_SemiCondensed-Light.ttf
+                NotoSansMalayalam_SemiCondensed-Medium.ttf
+                NotoSansMalayalam_SemiCondensed-Regular.ttf
+                NotoSansMalayalam_SemiCondensed-SemiBold.ttf
+                NotoSansMalayalam_SemiCondensed-Thin.ttf
+            NotoSansMalayalam-VariableFont_wdth,wght.ttf
+            OFL.txt
+            README.txt
+        Noto_Sans_Tamil/
+            static/
+                NotoSansTamil-Black.ttf
+                NotoSansTamil-Bold.ttf
+                NotoSansTamil-ExtraBold.ttf
+                NotoSansTamil-ExtraLight.ttf
+                NotoSansTamil-Light.ttf
+                NotoSansTamil-Medium.ttf
+                NotoSansTamil-Regular.ttf
+                NotoSansTamil-SemiBold.ttf
+                NotoSansTamil-Thin.ttf
+                NotoSansTamil_Condensed-Black.ttf
+                NotoSansTamil_Condensed-Bold.ttf
+                NotoSansTamil_Condensed-ExtraBold.ttf
+                NotoSansTamil_Condensed-ExtraLight.ttf
+                NotoSansTamil_Condensed-Light.ttf
+                NotoSansTamil_Condensed-Medium.ttf
+                NotoSansTamil_Condensed-Regular.ttf
+                NotoSansTamil_Condensed-SemiBold.ttf
+                NotoSansTamil_Condensed-Thin.ttf
+                NotoSansTamil_ExtraCondensed-Black.ttf
+                NotoSansTamil_ExtraCondensed-Bold.ttf
+                NotoSansTamil_ExtraCondensed-ExtraBold.ttf
+                NotoSansTamil_ExtraCondensed-ExtraLight.ttf
+                NotoSansTamil_ExtraCondensed-Light.ttf
+                NotoSansTamil_ExtraCondensed-Medium.ttf
+                NotoSansTamil_ExtraCondensed-Regular.ttf
+                NotoSansTamil_ExtraCondensed-SemiBold.ttf
+                NotoSansTamil_ExtraCondensed-Thin.ttf
+                NotoSansTamil_SemiCondensed-Black.ttf
+                NotoSansTamil_SemiCondensed-Bold.ttf
+                NotoSansTamil_SemiCondensed-ExtraBold.ttf
+                NotoSansTamil_SemiCondensed-ExtraLight.ttf
+                NotoSansTamil_SemiCondensed-Light.ttf
+                NotoSansTamil_SemiCondensed-Medium.ttf
+                NotoSansTamil_SemiCondensed-Regular.ttf
+                NotoSansTamil_SemiCondensed-SemiBold.ttf
+                NotoSansTamil_SemiCondensed-Thin.ttf
+            .DS_Store
+            NotoSansTamil-VariableFont_wdth,wght.ttf
+            OFL.txt
+            README.txt
+        Noto_Sans_Telugu/
+            static/
+                NotoSansTelugu-Black.ttf
+                NotoSansTelugu-Bold.ttf
+                NotoSansTelugu-ExtraBold.ttf
+                NotoSansTelugu-ExtraLight.ttf
+                NotoSansTelugu-Light.ttf
+                NotoSansTelugu-Medium.ttf
+                NotoSansTelugu-Regular.ttf
+                NotoSansTelugu-SemiBold.ttf
+                NotoSansTelugu-Thin.ttf
+                NotoSansTelugu_Condensed-Black.ttf
+                NotoSansTelugu_Condensed-Bold.ttf
+                NotoSansTelugu_Condensed-ExtraBold.ttf
+                NotoSansTelugu_Condensed-ExtraLight.ttf
+                NotoSansTelugu_Condensed-Light.ttf
+                NotoSansTelugu_Condensed-Medium.ttf
+                NotoSansTelugu_Condensed-Regular.ttf
+                NotoSansTelugu_Condensed-SemiBold.ttf
+                NotoSansTelugu_Condensed-Thin.ttf
+                NotoSansTelugu_ExtraCondensed-Black.ttf
+                NotoSansTelugu_ExtraCondensed-Bold.ttf
+                NotoSansTelugu_ExtraCondensed-ExtraBold.ttf
+                NotoSansTelugu_ExtraCondensed-ExtraLight.ttf
+                NotoSansTelugu_ExtraCondensed-Light.ttf
+                NotoSansTelugu_ExtraCondensed-Medium.ttf
+                NotoSansTelugu_ExtraCondensed-Regular.ttf
+                NotoSansTelugu_ExtraCondensed-SemiBold.ttf
+                NotoSansTelugu_ExtraCondensed-Thin.ttf
+                NotoSansTelugu_SemiCondensed-Black.ttf
+                NotoSansTelugu_SemiCondensed-Bold.ttf
+                NotoSansTelugu_SemiCondensed-ExtraBold.ttf
+                NotoSansTelugu_SemiCondensed-ExtraLight.ttf
+                NotoSansTelugu_SemiCondensed-Light.ttf
+                NotoSansTelugu_SemiCondensed-Medium.ttf
+                NotoSansTelugu_SemiCondensed-Regular.ttf
+                NotoSansTelugu_SemiCondensed-SemiBold.ttf
+                NotoSansTelugu_SemiCondensed-Thin.ttf
+            .DS_Store
+            NotoSansTelugu-VariableFont_wdth,wght.ttf
+            OFL.txt
+            README.txt
+        .DS_Store
+    Noto_Sans_Devanagari,Noto_Sans_Kannada,Noto_Sans_Tamil,Noto_Sans_Telugu/
+        Noto_Sans_Devanagari/
+            static/
+                NotoSansDevanagari-Black.ttf
+                NotoSansDevanagari-Bold.ttf
+                NotoSansDevanagari-ExtraBold.ttf
+                NotoSansDevanagari-ExtraLight.ttf
+                NotoSansDevanagari-Light.ttf
+                NotoSansDevanagari-Medium.ttf
+                NotoSansDevanagari-Regular.ttf
+                NotoSansDevanagari-SemiBold.ttf
+                NotoSansDevanagari-Thin.ttf
+                NotoSansDevanagari_Condensed-Black.ttf
+                NotoSansDevanagari_Condensed-Bold.ttf
+                NotoSansDevanagari_Condensed-ExtraBold.ttf
+                NotoSansDevanagari_Condensed-ExtraLight.ttf
+                NotoSansDevanagari_Condensed-Light.ttf
+                NotoSansDevanagari_Condensed-Medium.ttf
+                NotoSansDevanagari_Condensed-Regular.ttf
+                NotoSansDevanagari_Condensed-SemiBold.ttf
+                NotoSansDevanagari_Condensed-Thin.ttf
+                NotoSansDevanagari_ExtraCondensed-Black.ttf
+                NotoSansDevanagari_ExtraCondensed-Bold.ttf
+                NotoSansDevanagari_ExtraCondensed-ExtraBold.ttf
+                NotoSansDevanagari_ExtraCondensed-ExtraLight.ttf
+                NotoSansDevanagari_ExtraCondensed-Light.ttf
+                NotoSansDevanagari_ExtraCondensed-Medium.ttf
+                NotoSansDevanagari_ExtraCondensed-Regular.ttf
+                NotoSansDevanagari_ExtraCondensed-SemiBold.ttf
+                NotoSansDevanagari_ExtraCondensed-Thin.ttf
+                NotoSansDevanagari_SemiCondensed-Black.ttf
+                NotoSansDevanagari_SemiCondensed-Bold.ttf
+                NotoSansDevanagari_SemiCondensed-ExtraBold.ttf
+                NotoSansDevanagari_SemiCondensed-ExtraLight.ttf
+                NotoSansDevanagari_SemiCondensed-Light.ttf
+                NotoSansDevanagari_SemiCondensed-Medium.ttf
+                NotoSansDevanagari_SemiCondensed-Regular.ttf
+                NotoSansDevanagari_SemiCondensed-SemiBold.ttf
+                NotoSansDevanagari_SemiCondensed-Thin.ttf
+            NotoSansDevanagari-VariableFont_wdth,wght.ttf
+            OFL.txt
+            README.txt
+        Noto_Sans_Kannada/
+            static/
+                NotoSansKannada-Black.ttf
+                NotoSansKannada-Bold.ttf
+                NotoSansKannada-ExtraBold.ttf
+                NotoSansKannada-ExtraLight.ttf
+                NotoSansKannada-Light.ttf
+                NotoSansKannada-Medium.ttf
+                NotoSansKannada-Regular.ttf
+                NotoSansKannada-SemiBold.ttf
+                NotoSansKannada-Thin.ttf
+                NotoSansKannada_Condensed-Black.ttf
+                NotoSansKannada_Condensed-Bold.ttf
+                NotoSansKannada_Condensed-ExtraBold.ttf
+                NotoSansKannada_Condensed-ExtraLight.ttf
+                NotoSansKannada_Condensed-Light.ttf
+                NotoSansKannada_Condensed-Medium.ttf
+                NotoSansKannada_Condensed-Regular.ttf
+                NotoSansKannada_Condensed-SemiBold.ttf
+                NotoSansKannada_Condensed-Thin.ttf
+                NotoSansKannada_ExtraCondensed-Black.ttf
+                NotoSansKannada_ExtraCondensed-Bold.ttf
+                NotoSansKannada_ExtraCondensed-ExtraBold.ttf
+                NotoSansKannada_ExtraCondensed-ExtraLight.ttf
+                NotoSansKannada_ExtraCondensed-Light.ttf
+                NotoSansKannada_ExtraCondensed-Medium.ttf
+                NotoSansKannada_ExtraCondensed-Regular.ttf
+                NotoSansKannada_ExtraCondensed-SemiBold.ttf
+                NotoSansKannada_ExtraCondensed-Thin.ttf
+                NotoSansKannada_SemiCondensed-Black.ttf
+                NotoSansKannada_SemiCondensed-Bold.ttf
+                NotoSansKannada_SemiCondensed-ExtraBold.ttf
+                NotoSansKannada_SemiCondensed-ExtraLight.ttf
+                NotoSansKannada_SemiCondensed-Light.ttf
+                NotoSansKannada_SemiCondensed-Medium.ttf
+                NotoSansKannada_SemiCondensed-Regular.ttf
+                NotoSansKannada_SemiCondensed-SemiBold.ttf
+                NotoSansKannada_SemiCondensed-Thin.ttf
+            NotoSansKannada-VariableFont_wdth,wght.ttf
+            OFL.txt
+            README.txt
+        Noto_Sans_Tamil/
+            static/
+                NotoSansTamil-Black.ttf
+                NotoSansTamil-Bold.ttf
+                NotoSansTamil-ExtraBold.ttf
+                NotoSansTamil-ExtraLight.ttf
+                NotoSansTamil-Light.ttf
+                NotoSansTamil-Medium.ttf
+                NotoSansTamil-Regular.ttf
+                NotoSansTamil-SemiBold.ttf
+                NotoSansTamil-Thin.ttf
+                NotoSansTamil_Condensed-Black.ttf
+                NotoSansTamil_Condensed-Bold.ttf
+                NotoSansTamil_Condensed-ExtraBold.ttf
+                NotoSansTamil_Condensed-ExtraLight.ttf
+                NotoSansTamil_Condensed-Light.ttf
+                NotoSansTamil_Condensed-Medium.ttf
+                NotoSansTamil_Condensed-Regular.ttf
+                NotoSansTamil_Condensed-SemiBold.ttf
+                NotoSansTamil_Condensed-Thin.ttf
+                NotoSansTamil_ExtraCondensed-Black.ttf
+                NotoSansTamil_ExtraCondensed-Bold.ttf
+                NotoSansTamil_ExtraCondensed-ExtraBold.ttf
+                NotoSansTamil_ExtraCondensed-ExtraLight.ttf
+                NotoSansTamil_ExtraCondensed-Light.ttf
+                NotoSansTamil_ExtraCondensed-Medium.ttf
+                NotoSansTamil_ExtraCondensed-Regular.ttf
+                NotoSansTamil_ExtraCondensed-SemiBold.ttf
+                NotoSansTamil_ExtraCondensed-Thin.ttf
+                NotoSansTamil_SemiCondensed-Black.ttf
+                NotoSansTamil_SemiCondensed-Bold.ttf
+                NotoSansTamil_SemiCondensed-ExtraBold.ttf
+                NotoSansTamil_SemiCondensed-ExtraLight.ttf
+                NotoSansTamil_SemiCondensed-Light.ttf
+                NotoSansTamil_SemiCondensed-Medium.ttf
+                NotoSansTamil_SemiCondensed-Regular.ttf
+                NotoSansTamil_SemiCondensed-SemiBold.ttf
+                NotoSansTamil_SemiCondensed-Thin.ttf
+            NotoSansTamil-VariableFont_wdth,wght.ttf
+            OFL.txt
+            README.txt
+        Noto_Sans_Telugu/
+            static/
+                NotoSansTelugu-Black.ttf
+                NotoSansTelugu-Bold.ttf
+                NotoSansTelugu-ExtraBold.ttf
+                NotoSansTelugu-ExtraLight.ttf
+                NotoSansTelugu-Light.ttf
+                NotoSansTelugu-Medium.ttf
+                NotoSansTelugu-Regular.ttf
+                NotoSansTelugu-SemiBold.ttf
+                NotoSansTelugu-Thin.ttf
+                NotoSansTelugu_Condensed-Black.ttf
+                NotoSansTelugu_Condensed-Bold.ttf
+                NotoSansTelugu_Condensed-ExtraBold.ttf
+                NotoSansTelugu_Condensed-ExtraLight.ttf
+                NotoSansTelugu_Condensed-Light.ttf
+                NotoSansTelugu_Condensed-Medium.ttf
+                NotoSansTelugu_Condensed-Regular.ttf
+                NotoSansTelugu_Condensed-SemiBold.ttf
+                NotoSansTelugu_Condensed-Thin.ttf
+                NotoSansTelugu_ExtraCondensed-Black.ttf
+                NotoSansTelugu_ExtraCondensed-Bold.ttf
+                NotoSansTelugu_ExtraCondensed-ExtraBold.ttf
+                NotoSansTelugu_ExtraCondensed-ExtraLight.ttf
+                NotoSansTelugu_ExtraCondensed-Light.ttf
+                NotoSansTelugu_ExtraCondensed-Medium.ttf
+                NotoSansTelugu_ExtraCondensed-Regular.ttf
+                NotoSansTelugu_ExtraCondensed-SemiBold.ttf
+                NotoSansTelugu_ExtraCondensed-Thin.ttf
+                NotoSansTelugu_SemiCondensed-Black.ttf
+                NotoSansTelugu_SemiCondensed-Bold.ttf
+                NotoSansTelugu_SemiCondensed-ExtraBold.ttf
+                NotoSansTelugu_SemiCondensed-ExtraLight.ttf
+                NotoSansTelugu_SemiCondensed-Light.ttf
+                NotoSansTelugu_SemiCondensed-Medium.ttf
+                NotoSansTelugu_SemiCondensed-Regular.ttf
+                NotoSansTelugu_SemiCondensed-SemiBold.ttf
+                NotoSansTelugu_SemiCondensed-Thin.ttf
+            NotoSansTelugu-VariableFont_wdth,wght.ttf
+            OFL.txt
+            README.txt
+    .DS_Store
+    Noto_Sans_Devanagari,Noto_Sans_Kannada,Noto_Sans_Malayalam,Noto_Sans_Tamil,Noto_Sans_Telugu.zip
+    Noto_Sans_Devanagari,Noto_Sans_Kannada,Noto_Sans_Tamil,Noto_Sans_Telugu.zip
+    Noto_Sans_Devanagari,Noto_Sans_Tamil,Noto_Sans_Telugu.zip
+    Noto_Sans_Devanagari,Noto_Sans_Tamil.zip
+    Noto_Sans_Devanagari.zip
+    NotoSansDevanagari-Regular.ttf
+    NotoSansKannada-Regular.ttf
+    NotoSansTamil-Regular.ttf
+    NotoSansTelugu-Regular.ttf
+.DS_Store
+Annapoorna_ashtakam.pdf
+Annapoorna_ashtotthara_shata_naama_stotram.pdf
+Annapoorna_ashtotthara_shata_naamaavali.pdf
+Annapoorna_bhagavati_puraatana_pureshwari_stava.pdf
+Annapoorna_kavacham.pdf
+Annapoorna_sahasra_naama_stotram.pdf
+Annapoorna_sahasra_naamaavali.pdf
+Annapoorna_stava.pdf
+Annapoorna_stotram.pdf
+Annapoorna_stotram_shankaracharya_virachitam.pdf
+Annapoorna_upanishad.pdf
+configuration_doc.xlsx
+convert_text_to_pdf.py
+create_jscpy.py
+directory_listing _has additional_docs_needed.txt
+directory_listing.py
+directory_listing.txt
+docs.js
+docs_A.js
+docs_all.js
+index.txt
+temp.txt
+temp_used_for_temp_updates_to_code_doc.txt
