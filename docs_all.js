@@ -377,6 +377,13 @@ const documents =
             keywords: "HH_Shri_Bodhendra_dwadasha_namaskara_stotram_tamil",
             file: categoryFolders.H + "HH_Shri_Bodhendra_dwadasha_namaskara_stotram_tamil.pdf",
         },
+        {
+            id: "H004",
+            label: "Gurvashtakam",
+            description: "Gurvashtakam",
+            keywords: "Gurvashtakam",
+            file: categoryFolders.H + "Gurvashtakam.pdf",
+        },
     ],
     I:
     [
