@@ -470,6 +470,13 @@ const documents =
             keywords: "Surya_shatakam",
             file: categoryFolders.K + "Surya_shatakam.pdf",
         },
+        {
+            id: "K005",
+            label: "Adithya_hrudayam",
+            description: "Adithya_hrudayam",
+            keywords: "Adithya_hrudayam",
+            file: categoryFolders.K + "Adithya_hrudayam.pdf",
+        },
     ],
     L:
     [
