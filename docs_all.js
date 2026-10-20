@@ -384,6 +384,20 @@ const documents =
             keywords: "Gurvashtakam",
             file: categoryFolders.H + "Gurvashtakam.pdf",
         },
+        {
+            id: "H005",
+            label: "Guru_geetha",
+            description: "Guru_geetha",
+            keywords: "Guru_geetha",
+            file: categoryFolders.H + "Guru_geetha.pdf",
+        },
+        {
+            id: "H006",
+            label: "Guru_paaduka_panchakam",
+            description: "Guru_paaduka_panchakam",
+            keywords: "Guru_paaduka_panchakam",
+            file: categoryFolders.H + "Guru_paaduka_panchakam.pdf",
+        },
     ],
     I:
     [
