@@ -506,6 +506,41 @@ const documents =
             keywords: "Annapoorna_upanishad",
             file: categoryFolders.I + "Annapoorna_upanishad.pdf",
         },
+        {
+            id: "I016",
+            label: "Shri_Thrylokyavijayaa_Aparaajitha_stotram",
+            description: "Shri_Thrylokyavijayaa_Aparaajitha_stotram",
+            keywords: "Shri_Thrylokyavijayaa_Aparaajitha_stotram",
+            file: categoryFolders.I + "Shri_Thrylokyavijayaa_Aparaajitha_stotram.pdf",
+        },
+        {
+            id: "I017",
+            label: "Durga_devi_Aparaadha_kshamaapana_stotram",
+            description: "Durga_devi_Aparaadha_kshamaapana_stotram",
+            keywords: "Durga_devi_Aparaadha_kshamaapana_stotram",
+            file: categoryFolders.I + "Durga_devi_Aparaadha_kshamaapana_stotram.pdf",
+        },
+        {
+            id: "I018",
+            label: "Ambika_ashtotthara_shata_naamaavali",
+            description: "Ambika_ashtotthara_shata_naamaavali",
+            keywords: "Ambika_ashtotthara_shata_naamaavali",
+            file: categoryFolders.I + "Ambika_ashtotthara_shata_naamaavali.pdf",
+        },
+        {
+            id: "I019",
+            label: "Argalaa_stotram",
+            description: "Argalaa_stotram",
+            keywords: "Argalaa_stotram",
+            file: categoryFolders.I + "Argalaa_stotram.pdf",
+        },
+        {
+            id: "I020",
+            label: "aaryaa_durga_ashtakam",
+            description: "aaryaa_durga_ashtakam",
+            keywords: "aaryaa_durga_ashtakam",
+            file: categoryFolders.I + "aaryaa_durga_ashtakam.pdf",
+        },
     ],
     J:
     [
