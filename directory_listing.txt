@@ -81,7 +81,7 @@ Category H folder Guru/
 Category I folder Shri Durga/
     .DS_Store
     Aapadhunmoolana_durga_stotram.pdf
-    aaryaa_durga_ashtakam.pdf
+    Aaryaa_durga_ashtakam.pdf
     Ambika_ashtotthara_shata_naamaavali.pdf
     Annapoorna_ashtakam.pdf
     Annapoorna_ashtotthara_shata_naama_stotram.pdf
@@ -95,10 +95,17 @@ Category I folder Shri Durga/
     Annapoorna_stotram_shankaracharya_virachitam.pdf
     Annapoorna_upanishad.pdf
     Argalaa_stotram.pdf
+    Chandikaa_ashtakam.pdf
+    Chandikaa_pratah_smaranam.pdf
     Durga_devi_Aparaadha_kshamaapana_stotram.pdf
     Durga_saptashathi.pdf
     Durga_saptashathi_dhyaanaatmaka_stotram.pdf
+    Keelaka_stotram.pdf
+    Kunchuka_siddha_kunchika_stotram.pdf
+    Mahishaasura_ashtotthara_shata_naamaavali.pdf
     Mahishaasurakrutham_Devi_Stotram.pdf
+    Naaraayani_stuti_or_Naaraayani_suktham.pdf
+    Navadurgaa_stotram.pdf
     Shri_Thrylokyavijayaa_Aparaajitha_stotram.pdf
 Category J folder Shri Lakshmi/
     .DS_Store
@@ -616,9 +623,8 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
-aaryaa_durga_ashtakam.pdf
-Ambika_ashtotthara_shata_naamaavali.pdf
-Argalaa_stotram.pdf
+Chandikaa_ashtakam.pdf
+Chandikaa_pratah_smaranam.pdf
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
@@ -628,9 +634,11 @@ directory_listing.txt
 docs.js
 docs_A.js
 docs_all.js
-Durga_devi_Aparaadha_kshamaapana_stotram.pdf
 index.txt
-Shri_Thrylokyavijayaa_Aparaajitha_stotram.pdf
+Keelaka_stotram.pdf
+Kunchuka_siddha_kunchika_stotram.pdf
+Mahishaasura_ashtotthara_shata_naamaavali.pdf
+Naaraayani_stuti_or_Naaraayani_suktham.pdf
+Navadurgaa_stotram.pdf
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt
-~$configuration_doc.xlsx
