@@ -101,7 +101,7 @@ Category I folder Shri Durga/
     Durga_saptashathi.pdf
     Durga_saptashathi_dhyaanaatmaka_stotram.pdf
     Keelaka_stotram.pdf
-    Kunchuka_siddha_kunchika_stotram.pdf
+    Kunchika_siddha_kunchika_stotram.pdf
     Mahishaasura_ashtotthara_shata_naamaavali.pdf
     Mahishaasurakrutham_Devi_Stotram.pdf
     Naaraayani_stuti_or_Naaraayani_suktham.pdf
@@ -623,8 +623,6 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
-Chandikaa_ashtakam.pdf
-Chandikaa_pratah_smaranam.pdf
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
@@ -635,10 +633,5 @@ docs.js
 docs_A.js
 docs_all.js
 index.txt
-Keelaka_stotram.pdf
-Kunchuka_siddha_kunchika_stotram.pdf
-Mahishaasura_ashtotthara_shata_naamaavali.pdf
-Naaraayani_stuti_or_Naaraayani_suktham.pdf
-Navadurgaa_stotram.pdf
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt

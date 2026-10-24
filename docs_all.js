@@ -550,10 +550,10 @@ const documents =
         },
         {
             id: "I022",
-            label: "Kunchuka_siddha_kunchika_stotram",
-            description: "Kunchuka_siddha_kunchika_stotram",
-            keywords: "Kunchuka_siddha_kunchika_stotram",
-            file: categoryFolders.I + "Kunchuka_siddha_kunchika_stotram.pdf",
+            label: "Kunchika_siddha_kunchika_stotram",
+            description: "Kunchika_siddha_kunchika_stotram",
+            keywords: "Kunchika_siddha_kunchika_stotram",
+            file: categoryFolders.I + "Kunchika_siddha_kunchika_stotram.pdf",
         },
         {
             id: "I023",
