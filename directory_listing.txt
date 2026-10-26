@@ -128,12 +128,14 @@ Category M folder Om Namo Naaraayanaaya/
     Achyutha_astakam.pdf
 Category N folder Om Namah Shivaaya/
     .DS_Store
-    Ahoramoorthy_sahasranama_stotram_naamaavali_1_and_2.pdf
+    Aghoramoorthy_sahasranaama_stotram_naamaavali_1_and_2.pdf
+    Aghoramoorthy_stotram_stavam_ashtakam.pdf
     Arda_naarishwara_ashtotthara_naamaavali.pdf
     Maheshwaraproktha_Ujjayini_Mahaakaalamahima.pdf
     Omkaareshwara_maahaatmyam.pdf
     Shri_Agastesha_lingaashtakam.pdf
     Shri_Ahoramoorthy_kavacham.pdf
+    Shri_Atharva_shikhopanishad.pdf
     Shrimad_akhilaanda_devi_jambhukeshwara_stuti_dringeri.pdf
 Category O folder Shri Rama/
     .DS_Store
@@ -629,7 +631,6 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
-Ahoramoorthy_sahasranama_stotram_naamaavali_1_and_2.pdf
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py

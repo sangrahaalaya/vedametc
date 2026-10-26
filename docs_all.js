@@ -731,6 +731,20 @@ const documents =
             keywords: "Aghoramoorthy_sahasranaama_stotram_naamaavali_1_and_2",
             file: categoryFolders.N + "Aghoramoorthy_sahasranaama_stotram_naamaavali_1_and_2.pdf",
         },
+        {
+            id: "N008",
+            label: "Aghoramoorthy_stotram_stavam_ashtakam",
+            description: "Aghoramoorthy_stotram_stavam_ashtakam",
+            keywords: "Aghoramoorthy_stotram_stavam_ashtakam",
+            file: categoryFolders.N + "Aghoramoorthy_stotram_stavam_ashtakam.pdf",
+        },
+        {
+            id: "N009",
+            label: "Shri_Atharva_shikhopanishad",
+            description: "Shri_Atharva_shikhopanishad",
+            keywords: "Shri_Atharva_shikhopanishad",
+            file: categoryFolders.N + "Shri_Atharva_shikhopanishad.pdf",
+        },
     ],
     O:
     [
