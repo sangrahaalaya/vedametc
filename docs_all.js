@@ -745,6 +745,34 @@ const documents =
             keywords: "Shri_Atharva_shikhopanishad",
             file: categoryFolders.N + "Shri_Atharva_shikhopanishad.pdf",
         },
+        {
+            id: "N010",
+            label: "Shrimad_anaadhi_kalpeshwara_stotram",
+            description: "Shrimad_anaadhi_kalpeshwara_stotram",
+            keywords: "Shrimad_anaadhi_kalpeshwara_stotram",
+            file: categoryFolders.N + "Shrimad_anaadhi_kalpeshwara_stotram.pdf",
+        },
+        {
+            id: "N011",
+            label: "Shrimad_anaadhi_siddha_linga_stavam",
+            description: "Shrimad_anaadhi_siddha_linga_stavam",
+            keywords: "Shrimad_anaadhi_siddha_linga_stavam",
+            file: categoryFolders.N + "Shrimad_anaadhi_siddha_linga_stavam.pdf",
+        },
+        {
+            id: "N012",
+            label: "Shrimad_anaahateshwara_sammohana_kavacham",
+            description: "Shrimad_anaahateshwara_sammohana_kavacham",
+            keywords: "Shrimad_anaahateshwara_sammohana_kavacham",
+            file: categoryFolders.N + "Shrimad_anaahateshwara_sammohana_kavacham.pdf",
+        },
+        {
+            id: "N013",
+            label: "Anyaapadesha_shatakam_Neelakanta_deekshitar",
+            description: "Anyaapadesha_shatakam_Neelakanta_deekshitar",
+            keywords: "Anyaapadesha_shatakam_Neelakanta_deekshitar",
+            file: categoryFolders.N + "Anyaapadesha_shatakam_Neelakanta_deekshitar.pdf",
+        },
     ],
     O:
     [

@@ -631,6 +631,7 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
+Anyaapadesha_shatakam_Neelakanta_deekshitar.pdf
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
@@ -641,5 +642,8 @@ docs.js
 docs_A.js
 docs_all.js
 index.txt
+Shrimad_anaadhi_kalpeshwara_stotram.pdf
+Shrimad_anaadhi_siddha_linga_stavam.pdf
+Shrimad_anaahateshwara_sammohana_kavacham.pdf
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt
