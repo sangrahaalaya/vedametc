@@ -633,5 +633,10 @@ docs.js
 docs_A.js
 docs_all.js
 index.txt
+Maheshwaraproktha_Ujjayini_Mahaakaalamahima.pdf
+Omkaareshwara_maahaatmyam.pdf
+Shri_Agastesha_lingaashtakam.pdf
+Shri_Ahoramoorthy_kavacham.pdf
+Shrimad_akhilaanda_devi_jambhukeshwara_stuti_dringeri.pdf
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt

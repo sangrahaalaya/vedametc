@@ -689,6 +689,41 @@ const documents =
             keywords: "Arda_naarishwara_ashtotthara_naamaavali",
             file: categoryFolders.N + "Arda_naarishwara_ashtotthara_naamaavali.pdf",
         },
+        {
+            id: "N002",
+            label: "Maheshwaraproktha_Ujjayini_Mahaakaalamahima",
+            description: "Maheshwaraproktha_Ujjayini_Mahaakaalamahima",
+            keywords: "Maheshwaraproktha_Ujjayini_Mahaakaalamahima",
+            file: categoryFolders.N + "Maheshwaraproktha_Ujjayini_Mahaakaalamahima.pdf",
+        },
+        {
+            id: "N003",
+            label: "Omkaareshwara_maahaatmyam",
+            description: "Omkaareshwara_maahaatmyam",
+            keywords: "Omkaareshwara_maahaatmyam",
+            file: categoryFolders.N + "Omkaareshwara_maahaatmyam.pdf",
+        },
+        {
+            id: "N004",
+            label: "Shri_Agastesha_lingaashtakam",
+            description: "Shri_Agastesha_lingaashtakam",
+            keywords: "Shri_Agastesha_lingaashtakam",
+            file: categoryFolders.N + "Shri_Agastesha_lingaashtakam.pdf",
+        },
+        {
+            id: "N005",
+            label: "Shri_Ahoramoorthy_kavacham",
+            description: "Shri_Ahoramoorthy_kavacham",
+            keywords: "Shri_Ahoramoorthy_kavacham",
+            file: categoryFolders.N + "Shri_Ahoramoorthy_kavacham.pdf",
+        },
+        {
+            id: "N006",
+            label: "Shrimad_akhilaanda_devi_jambhukeshwara_stuti_dringeri",
+            description: "Shrimad_akhilaanda_devi_jambhukeshwara_stuti_dringeri",
+            keywords: "Shrimad_akhilaanda_devi_jambhukeshwara_stuti_dringeri",
+            file: categoryFolders.N + "Shrimad_akhilaanda_devi_jambhukeshwara_stuti_dringeri.pdf",
+        },
     ],
     O:
     [
