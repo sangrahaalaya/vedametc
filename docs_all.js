@@ -724,6 +724,13 @@ const documents =
             keywords: "Shrimad_akhilaanda_devi_jambhukeshwara_stuti_dringeri",
             file: categoryFolders.N + "Shrimad_akhilaanda_devi_jambhukeshwara_stuti_dringeri.pdf",
         },
+        {
+            id: "N007",
+            label: "Aghoramoorthy_sahasranaama_stotram_naamaavali_1_and_2",
+            description: "Aghoramoorthy_sahasranaama_stotram_naamaavali_1_and_2",
+            keywords: "Aghoramoorthy_sahasranaama_stotram_naamaavali_1_and_2",
+            file: categoryFolders.N + "Aghoramoorthy_sahasranaama_stotram_naamaavali_1_and_2.pdf",
+        },
     ],
     O:
     [
