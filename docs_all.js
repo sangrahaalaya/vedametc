@@ -712,10 +712,10 @@ const documents =
         },
         {
             id: "N005",
-            label: "Shri_Ahoramoorthy_kavacham",
-            description: "Shri_Ahoramoorthy_kavacham",
-            keywords: "Shri_Ahoramoorthy_kavacham",
-            file: categoryFolders.N + "Shri_Ahoramoorthy_kavacham.pdf",
+            label: "Shri_Aghoramoorthy_kavacham",
+            description: "Shri_Aghoramoorthy_kavacham",
+            keywords: "Shri_Aghoramoorthy_kavacham",
+            file: categoryFolders.N + "Shri_Aghoramoorthy_kavacham.pdf",
         },
         {
             id: "N006",
@@ -772,6 +772,27 @@ const documents =
             description: "Anyaapadesha_shatakam_Neelakanta_deekshitar",
             keywords: "Anyaapadesha_shatakam_Neelakanta_deekshitar",
             file: categoryFolders.N + "Anyaapadesha_shatakam_Neelakanta_deekshitar.pdf",
+        },
+        {
+            id: "N014",
+            label: "Amaranaatha_ashtakam",
+            description: "Amaranaatha_ashtakam",
+            keywords: "Amaranaatha_ashtakam",
+            file: categoryFolders.N + "Amaranaatha_ashtakam.pdf",
+        },
+        {
+            id: "N015",
+            label: "Aparaadha_ashtakam_Shiva_ashtakam",
+            description: "Aparaadha_ashtakam_Shiva_ashtakam",
+            keywords: "Aparaadha_ashtakam_Shiva_ashtakam",
+            file: categoryFolders.N + "Aparaadha_ashtakam_Shiva_ashtakam.pdf",
+        },
+        {
+            id: "N016",
+            label: "Rubhu_proktha_Atma_vaibhava_nirupanam",
+            description: "Rubhu_proktha_Atma_vaibhava_nirupanam",
+            keywords: "Rubhu_proktha_Atma_vaibhava_nirupanam",
+            file: categoryFolders.N + "Rubhu_proktha_Atma_vaibhava_nirupanam.pdf",
         },
     ],
     O:

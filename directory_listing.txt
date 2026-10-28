@@ -130,13 +130,20 @@ Category N folder Om Namah Shivaaya/
     .DS_Store
     Aghoramoorthy_sahasranaama_stotram_naamaavali_1_and_2.pdf
     Aghoramoorthy_stotram_stavam_ashtakam.pdf
+    Amaranaatha_ashtakam.pdf
+    Anyaapadesha_shatakam_Neelakanta_deekshitar.pdf
+    Aparaadha_ashtakam_Shiva_ashtakam.pdf
     Arda_naarishwara_ashtotthara_naamaavali.pdf
     Maheshwaraproktha_Ujjayini_Mahaakaalamahima.pdf
     Omkaareshwara_maahaatmyam.pdf
+    Rubhu_proktha_Atma_vaibhava_nirupanam.pdf
     Shri_Agastesha_lingaashtakam.pdf
-    Shri_Ahoramoorthy_kavacham.pdf
+    Shri_Aghoramoorthy_kavacham.pdf
     Shri_Atharva_shikhopanishad.pdf
     Shrimad_akhilaanda_devi_jambhukeshwara_stuti_dringeri.pdf
+    Shrimad_anaadhi_kalpeshwara_stotram.pdf
+    Shrimad_anaadhi_siddha_linga_stavam.pdf
+    Shrimad_anaahateshwara_sammohana_kavacham.pdf
 Category O folder Shri Rama/
     .DS_Store
     Rama_chaalisa.pdf
@@ -631,7 +638,8 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
-Anyaapadesha_shatakam_Neelakanta_deekshitar.pdf
+Amaranaatha_ashtakam.pdf
+Aparaadha_ashtakam_Shiva_ashtakam.pdf
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
@@ -642,8 +650,6 @@ docs.js
 docs_A.js
 docs_all.js
 index.txt
-Shrimad_anaadhi_kalpeshwara_stotram.pdf
-Shrimad_anaadhi_siddha_linga_stavam.pdf
-Shrimad_anaahateshwara_sammohana_kavacham.pdf
+Rubhu_proktha_Atma_vaibhava_nirupanam.pdf
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt
