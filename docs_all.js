@@ -794,6 +794,20 @@ const documents =
             keywords: "Rubhu_proktha_Atma_vaibhava_nirupanam",
             file: categoryFolders.N + "Rubhu_proktha_Atma_vaibhava_nirupanam.pdf",
         },
+        {
+            id: "N017",
+            label: "Atma_shatkam_Nirvaana_shatkam_shankaracharya",
+            description: "Atma_shatkam_Nirvaana_shatkam_shankaracharya",
+            keywords: "Atma_shatkam_Nirvaana_shatkam_shankaracharya",
+            file: categoryFolders.N + "Atma_shatkam_Nirvaana_shatkam_shankaracharya.pdf",
+        },
+        {
+            id: "N018",
+            label: "Rubhu_proktha_Atmagynaana_nirupanam",
+            description: "Rubhu_proktha_Atmagynaana_nirupanam",
+            keywords: "Rubhu_proktha_Atmagynaana_nirupanam",
+            file: categoryFolders.N + "Rubhu_proktha_Atmagynaana_nirupanam.pdf",
+        },
     ],
     O:
     [

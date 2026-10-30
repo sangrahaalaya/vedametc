@@ -638,8 +638,8 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
-Amaranaatha_ashtakam.pdf
-Aparaadha_ashtakam_Shiva_ashtakam.pdf
+Atma_shatkam_Nirvaana_shatkam_shankaracharya.pdf
+Atma_shatkam_Nirvaana_shatkam_shankaracharya.txt
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
@@ -650,6 +650,7 @@ docs.js
 docs_A.js
 docs_all.js
 index.txt
-Rubhu_proktha_Atma_vaibhava_nirupanam.pdf
+Rubhu_proktha_Atmagynaana_nirupanam.pdf
+Rubhu_proktha_Atmagynaana_nirupanam.txt
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt
