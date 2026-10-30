@@ -134,9 +134,14 @@ Category N folder Om Namah Shivaaya/
     Anyaapadesha_shatakam_Neelakanta_deekshitar.pdf
     Aparaadha_ashtakam_Shiva_ashtakam.pdf
     Arda_naarishwara_ashtotthara_naamaavali.pdf
+    Atma_arpana_stuthi_appaiya_deekshitar.pdf
+    Atma_shatkam_Nirvaana_shatkam_shankaracharya.pdf
+    Atmaa_veereshwar_stotram.pdf
     Maheshwaraproktha_Ujjayini_Mahaakaalamahima.pdf
     Omkaareshwara_maahaatmyam.pdf
+    Rubhu_proktha_Atma_aananda_nirupanam.pdf
     Rubhu_proktha_Atma_vaibhava_nirupanam.pdf
+    Rubhu_proktha_Atmagynaana_nirupanam.pdf
     Shri_Agastesha_lingaashtakam.pdf
     Shri_Aghoramoorthy_kavacham.pdf
     Shri_Atharva_shikhopanishad.pdf
@@ -638,8 +643,10 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
-Atma_shatkam_Nirvaana_shatkam_shankaracharya.pdf
-Atma_shatkam_Nirvaana_shatkam_shankaracharya.txt
+Atma_arpana_stuthi_appaiya_deekshitar.pdf
+Atma_arpana_stuthi_appaiya_deekshitar.txt
+Atmaa_veereshwar_stotram.pdf
+Atmaa_veereshwar_stotram.txt
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
@@ -650,7 +657,7 @@ docs.js
 docs_A.js
 docs_all.js
 index.txt
-Rubhu_proktha_Atmagynaana_nirupanam.pdf
-Rubhu_proktha_Atmagynaana_nirupanam.txt
+Rubhu_proktha_Atma_aananda_nirupanam.pdf
+Rubhu_proktha_Atma_aananda_nirupanam.txt
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt

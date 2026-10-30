@@ -808,6 +808,27 @@ const documents =
             keywords: "Rubhu_proktha_Atmagynaana_nirupanam",
             file: categoryFolders.N + "Rubhu_proktha_Atmagynaana_nirupanam.pdf",
         },
+        {
+            id: "N019",
+            label: "Atma_arpana_stuthi_appaiya_deekshitar",
+            description: "Atma_arpana_stuthi_appaiya_deekshitar",
+            keywords: "Atma_arpana_stuthi_appaiya_deekshitar",
+            file: categoryFolders.N + "Atma_arpana_stuthi_appaiya_deekshitar.pdf",
+        },
+        {
+            id: "N020",
+            label: "Atmaa_veereshwar_stotram",
+            description: "Atmaa_veereshwar_stotram",
+            keywords: "Atmaa_veereshwar_stotram",
+            file: categoryFolders.N + "Atmaa_veereshwar_stotram.pdf",
+        },
+        {
+            id: "N021",
+            label: "Rubhu_proktha_Atma_aananda_nirupanam",
+            description: "Rubhu_proktha_Atma_aananda_nirupanam",
+            keywords: "Rubhu_proktha_Atma_aananda_nirupanam",
+            file: categoryFolders.N + "Rubhu_proktha_Atma_aananda_nirupanam.pdf",
+        },
     ],
     O:
     [
