@@ -643,10 +643,10 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
-Atma_arpana_stuthi_appaiya_deekshitar.pdf
-Atma_arpana_stuthi_appaiya_deekshitar.txt
-Atmaa_veereshwar_stotram.pdf
-Atmaa_veereshwar_stotram.txt
+Aapadhuddhaaraka_batuka_bhairava_dhyaanam.pdf
+Aapadhuddhaaraka_batuka_bhairava_shatanaama_stotram_naamaavali.pdf
+Ananda_nataraaja_ashtotthara_shata_naama_stotram_naamaavali.pdf
+Atma_Eshwara_tatwa_pancharatnam.pdf
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
@@ -657,7 +657,7 @@ docs.js
 docs_A.js
 docs_all.js
 index.txt
-Rubhu_proktha_Atma_aananda_nirupanam.pdf
-Rubhu_proktha_Atma_aananda_nirupanam.txt
+Rubhu_proktha_Aanandarupatva_nirupanam.pdf
+Rubhu_proktha_atamaiva_nirupanam.pdf
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt

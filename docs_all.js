@@ -829,6 +829,48 @@ const documents =
             keywords: "Rubhu_proktha_Atma_aananda_nirupanam",
             file: categoryFolders.N + "Rubhu_proktha_Atma_aananda_nirupanam.pdf",
         },
+        {
+            id: "N022",
+            label: "Aapadhuddhaaraka_batuka_bhairava_dhyaanam",
+            description: "Aapadhuddhaaraka_batuka_bhairava_dhyaanam",
+            keywords: "Aapadhuddhaaraka_batuka_bhairava_dhyaanam",
+            file: categoryFolders.N + "Aapadhuddhaaraka_batuka_bhairava_dhyaanam.pdf",
+        },
+        {
+            id: "N023",
+            label: "Aapadhuddhaaraka_batuka_bhairava_shatanaama_stotram_naamaavali",
+            description: "Aapadhuddhaaraka_batuka_bhairava_shatanaama_stotram_naamaavali",
+            keywords: "Aapadhuddhaaraka_batuka_bhairava_shatanaama_stotram_naamaavali",
+            file: categoryFolders.N + "Aapadhuddhaaraka_batuka_bhairava_shatanaama_stotram_naamaavali.pdf",
+        },
+        {
+            id: "N024",
+            label: "Ananda_nataraaja_ashtotthara_shata_naama_stotram_naamaavali",
+            description: "Ananda_nataraaja_ashtotthara_shata_naama_stotram_naamaavali",
+            keywords: "Ananda_nataraaja_ashtotthara_shata_naama_stotram_naamaavali",
+            file: categoryFolders.N + "Ananda_nataraaja_ashtotthara_shata_naama_stotram_naamaavali.pdf",
+        },
+        {
+            id: "N025",
+            label: "Atma_Eshwara_tatwa_pancharatnam",
+            description: "Atma_Eshwara_tatwa_pancharatnam",
+            keywords: "Atma_Eshwara_tatwa_pancharatnam",
+            file: categoryFolders.N + "Atma_Eshwara_tatwa_pancharatnam.pdf",
+        },
+        {
+            id: "N026",
+            label: "Rubhu_proktha_Aanandarupatva_nirupanam",
+            description: "Rubhu_proktha_Aanandarupatva_nirupanam",
+            keywords: "Rubhu_proktha_Aanandarupatva_nirupanam",
+            file: categoryFolders.N + "Rubhu_proktha_Aanandarupatva_nirupanam.pdf",
+        },
+        {
+            id: "N027",
+            label: "Rubhu_proktha_atamaiva_nirupanam",
+            description: "Rubhu_proktha_atamaiva_nirupanam",
+            keywords: "Rubhu_proktha_atamaiva_nirupanam",
+            file: categoryFolders.N + "Rubhu_proktha_atamaiva_nirupanam.pdf",
+        },
     ],
     O:
     [
