@@ -892,6 +892,41 @@ const documents =
             keywords: "Aarya_shatakam_Shrimad_appaiya_deekshitar_virachitam",
             file: categoryFolders.N + "Aarya_shatakam_Shrimad_appaiya_deekshitar_virachitam.pdf",
         },
+        {
+            id: "N030",
+            label: "Ashtamoorthi_stotram",
+            description: "Ashtamoorthi_stotram",
+            keywords: "Ashtamoorthi_stotram",
+            file: categoryFolders.N + "Ashtamoorthi_stotram.pdf",
+        },
+        {
+            id: "N031",
+            label: "Ashtamoorthi_stuti",
+            description: "Ashtamoorthi_stuti",
+            keywords: "Ashtamoorthi_stuti",
+            file: categoryFolders.N + "Ashtamoorthi_stuti.pdf",
+        },
+        {
+            id: "N032",
+            label: "Eshwara_proktham_ashta_shashti_naama_shiva_stotram",
+            description: "Eshwara_proktham_ashta_shashti_naama_shiva_stotram",
+            keywords: "Eshwara_proktham_ashta_shashti_naama_shiva_stotram",
+            file: categoryFolders.N + "Eshwara_proktham_ashta_shashti_naama_shiva_stotram.pdf",
+        },
+        {
+            id: "N033",
+            label: "Gauri_krutaa_ambikesha_shiva_stuti",
+            description: "Gauri_krutaa_ambikesha_shiva_stuti",
+            keywords: "Gauri_krutaa_ambikesha_shiva_stuti",
+            file: categoryFolders.N + "Gauri_krutaa_ambikesha_shiva_stuti.pdf",
+        },
+        {
+            id: "N034",
+            label: "Shiva_proktham_Arunaachala_kshetra_varnanam",
+            description: "Shiva_proktham_Arunaachala_kshetra_varnanam",
+            keywords: "Shiva_proktham_Arunaachala_kshetra_varnanam",
+            file: categoryFolders.N + "Shiva_proktham_Arunaachala_kshetra_varnanam.pdf",
+        },
     ],
     O:
     [

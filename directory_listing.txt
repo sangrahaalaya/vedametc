@@ -650,7 +650,8 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
-Anna_suktham.pdf
+Ashtamoorthi_stotram.pdf
+Ashtamoorthi_stuti.pdf
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
@@ -660,6 +661,9 @@ directory_listing.txt
 docs.js
 docs_A.js
 docs_all.js
+Eshwara_proktham_ashta_shashti_naama_shiva_stotram.pdf
+Gauri_krutaa_ambikesha_shiva_stuti.pdf
 index.txt
+Shiva_proktham_Arunaachala_kshetra_varnanam.pdf
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt
