@@ -202,6 +202,13 @@ const documents =
             keywords: "Shri_hanumath_suktham",
             file: categoryFolders.A + "Shri_hanumath_suktham.pdf",
         },
+        {
+            id: "A021",
+            label: "Anna_suktham",
+            description: "Anna_suktham",
+            keywords: "Anna_suktham",
+            file: categoryFolders.A + "Anna_suktham.pdf",
+        },
     ],
     B:
     [
