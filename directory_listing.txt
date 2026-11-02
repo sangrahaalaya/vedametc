@@ -5,6 +5,7 @@ backup from panchangamnow app/
     script.js
 Category A folder Vedam/
     .DS_Store
+    Anna_suktham.pdf
     Arunaprashnam.pdf
     Bhaagya_suktham.pdf
     Bhu_suktham.pdf
@@ -649,7 +650,7 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
-Aarya_shatakam_Shrimad_appaiya_deekshitar_virachitam.pdf
+Anna_suktham.pdf
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
@@ -662,4 +663,3 @@ docs_all.js
 index.txt
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt
-Yama_protham_Ayumoorthihi_anuvarnanam.pdf
