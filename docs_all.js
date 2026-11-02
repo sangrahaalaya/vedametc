@@ -871,6 +871,20 @@ const documents =
             keywords: "Rubhu_proktha_atamaiva_nirupanam",
             file: categoryFolders.N + "Rubhu_proktha_atamaiva_nirupanam.pdf",
         },
+        {
+            id: "N028",
+            label: "Yama_protham_Ayumoorthihi_anuvarnanam",
+            description: "Yama_protham_Ayumoorthihi_anuvarnanam",
+            keywords: "Yama_protham_Ayumoorthihi_anuvarnanam",
+            file: categoryFolders.N + "Yama_protham_Ayumoorthihi_anuvarnanam.pdf",
+        },
+        {
+            id: "N029",
+            label: "Aarya_shatakam_Shrimad_appaiya_deekshitar_virachitam",
+            description: "Aarya_shatakam_Shrimad_appaiya_deekshitar_virachitam",
+            keywords: "Aarya_shatakam_Shrimad_appaiya_deekshitar_virachitam",
+            file: categoryFolders.N + "Aarya_shatakam_Shrimad_appaiya_deekshitar_virachitam.pdf",
+        },
     ],
     O:
     [
