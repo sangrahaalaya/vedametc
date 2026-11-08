@@ -138,10 +138,14 @@ Category N folder Om Namah Shivaaya/
     Anyaapadesha_shatakam_Neelakanta_deekshitar.pdf
     Aparaadha_ashtakam_Shiva_ashtakam.pdf
     Arda_naarishwara_ashtotthara_naamaavali.pdf
+    Ashtamoorthi_stotram.pdf
+    Ashtamoorthi_stuti.pdf
     Atma_arpana_stuthi_appaiya_deekshitar.pdf
     Atma_Eshwara_tatwa_pancharatnam.pdf
     Atma_shatkam_Nirvaana_shatkam_shankaracharya.pdf
     Atmaa_veereshwar_stotram.pdf
+    Eshwara_proktham_ashta_shashti_naama_shiva_stotram.pdf
+    Gauri_krutaa_ambikesha_shiva_stuti.pdf
     Maheshwaraproktha_Ujjayini_Mahaakaalamahima.pdf
     Omkaareshwara_maahaatmyam.pdf
     Rubhu_proktha_Aanandarupatva_nirupanam.pdf
@@ -149,6 +153,7 @@ Category N folder Om Namah Shivaaya/
     Rubhu_proktha_Atma_aananda_nirupanam.pdf
     Rubhu_proktha_Atma_vaibhava_nirupanam.pdf
     Rubhu_proktha_Atmagynaana_nirupanam.pdf
+    Shiva_proktham_Arunaachala_kshetra_varnanam.pdf
     Shri_Agastesha_lingaashtakam.pdf
     Shri_Aghoramoorthy_kavacham.pdf
     Shri_Atharva_shikhopanishad.pdf
@@ -650,8 +655,8 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
-Ashtamoorthi_stotram.pdf
-Ashtamoorthi_stuti.pdf
+Achyutha_shatakam_vedantadeshika_virachitam.pdf
+Achyutha_stotram_Chakradhara_stotram.pdf
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
@@ -661,9 +666,7 @@ directory_listing.txt
 docs.js
 docs_A.js
 docs_all.js
-Eshwara_proktham_ashta_shashti_naama_shiva_stotram.pdf
-Gauri_krutaa_ambikesha_shiva_stuti.pdf
 index.txt
-Shiva_proktham_Arunaachala_kshetra_varnanam.pdf
+Om_namo_Naaraayanaaya_Ashtaakshara_Maahaatmyam.pdf
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt

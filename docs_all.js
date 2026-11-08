@@ -686,6 +686,27 @@ const documents =
             keywords: "Achyutha_astakam",
             file: categoryFolders.M + "Achyutha_astakam.pdf",
         },
+        {
+            id: "M002",
+            label: "Om_namo_Naaraayanaaya_Ashtaakshara_Maahaatmyam",
+            description: "Om_namo_Naaraayanaaya_Ashtaakshara_Maahaatmyam",
+            keywords: "Om_namo_Naaraayanaaya_Ashtaakshara_Maahaatmyam",
+            file: categoryFolders.M + "Om_namo_Naaraayanaaya_Ashtaakshara_Maahaatmyam.pdf",
+        },
+        {
+            id: "M003",
+            label: "Achyutha_shatakam_vedantadeshika_virachitam",
+            description: "Achyutha_shatakam_vedantadeshika_virachitam",
+            keywords: "Achyutha_shatakam_vedantadeshika_virachitam",
+            file: categoryFolders.M + "Achyutha_shatakam_vedantadeshika_virachitam.pdf",
+        },
+        {
+            id: "M004",
+            label: "Achyutha_stotram_Chakradhara_stotram",
+            description: "Achyutha_stotram_Chakradhara_stotram",
+            keywords: "Achyutha_stotram_Chakradhara_stotram",
+            file: categoryFolders.M + "Achyutha_stotram_Chakradhara_stotram.pdf",
+        },
     ],
     N:
     [
