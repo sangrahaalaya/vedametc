@@ -106,7 +106,21 @@ document.addEventListener(
 
         categoryContainer.appendChild(button);
     });
-
+        //
+        // Connect the two document tools
+        //
+        
+        document.getElementById("allDocumentsButton")
+            .addEventListener(
+                "click",
+                showAllDocuments
+            );
+        
+        document.getElementById("searchDocumentsButton")
+            .addEventListener(
+                "click",
+                showDocumentSearch
+            );
         //
         // Display Category A initially
         //
@@ -218,3 +232,332 @@ function showCategory(category)
             container.appendChild(button);
         });
 }
+
+
+//
+// Collect all documents from all categories
+//
+
+function getAllDocuments()
+{
+    const allDocs = [];
+
+    Object.keys(categories).forEach(
+        function(category)
+        {
+            const list = documents[category] || [];
+
+            list.forEach(
+                function(doc)
+                {
+                    // Skip placeholder records
+                    if (doc.id === category + "000")
+                    {
+                        return;
+                    }
+
+                    allDocs.push(
+                    {
+                        name: doc.label,
+                        category: categories[category],
+                        file: doc.file
+                    });
+                });
+        });
+
+    // Sort alphabetically by document title
+    allDocs.sort(
+        (a, b) =>
+            a.name.localeCompare(
+                b.name,
+                undefined,
+                { sensitivity: "base" }
+            )
+    );
+
+    return allDocs;
+}
+
+
+//
+// Display all documents alphabetically
+//
+
+function showAllDocuments()
+{
+    openDocumentWindow(false);
+}
+
+
+//
+// Display document search window
+//
+
+function showDocumentSearch()
+{
+    openDocumentWindow(true);
+}
+
+
+//
+// Common window for alphabetical index
+// and search results
+//
+
+
+//
+// Display alphabetical index or search results
+// within the existing page
+//
+
+function openDocumentWindow(searchMode)
+{
+    const container =
+        document.getElementById("pdfButtonContainer");
+
+    const header =
+        document.getElementById("documentHeader");
+
+    const allDocs =
+        getAllDocuments();
+
+    //
+    // Remove active category highlight
+    //
+
+    document
+        .querySelectorAll(".category")
+        .forEach(function(button)
+        {
+            button.classList.remove("active");
+        });
+
+    //
+    // Update heading
+    //
+
+    header.textContent = searchMode
+        ? "Search Documents"
+        : "All Documents – Alphabetical Index";
+
+    //
+    // Add styling once
+    //
+
+    if (!document.getElementById("documentIndexStyles"))
+    {
+        const style = document.createElement("style");
+
+        style.id = "documentIndexStyles";
+
+        style.textContent = `
+            .documentIndexView
+            {
+                width: 100%;
+                flex: 1 1 100%;
+            }
+
+            .documentIndexView input
+            {
+                width: 100%;
+                padding: 12px;
+                font-size: 16px;
+                box-sizing: border-box;
+                margin: 15px 0;
+            }
+
+            .documentIndexView table
+            {
+                width: 100%;
+                border-collapse: collapse;
+                background: white;
+            }
+
+            .documentIndexView th,
+            .documentIndexView td
+            {
+                border: 1px solid #cccccc;
+                padding: 10px;
+                text-align: left;
+            }
+
+            .documentIndexView th
+            {
+                background: #e0e0e0;
+            }
+
+            .documentIndexView tr:nth-child(even)
+            {
+                background: #f3f3f3;
+            }
+
+            .documentIndexView a
+            {
+                color: #0645ad;
+                text-decoration: none;
+            }
+
+            .documentIndexView a:hover
+            {
+                text-decoration: underline;
+            }
+
+            .documentIndexView #resultCount
+            {
+                color: #555555;
+                margin: 12px 0;
+            }
+        `;
+
+        document.head.appendChild(style);
+    }
+
+    //
+    // Create display area
+    //
+
+    container.innerHTML = `
+        <div class="documentIndexView">
+
+            ${searchMode
+                ? `<input
+                       type="search"
+                       id="searchBox"
+                       placeholder="Enter document title..."
+                       autocomplete="off">`
+                : ""
+            }
+
+            <div id="resultCount"></div>
+
+            <div style="overflow-x:auto;">
+
+                <table>
+
+                    <thead>
+                        <tr>
+                            <th>Document</th>
+                            <th>Category</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="documentRows"></tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+    `;
+
+    const tableBody =
+        document.getElementById("documentRows");
+
+    const resultCount =
+        document.getElementById("resultCount");
+
+    //
+    // Display matching documents
+    //
+
+    function displayResults(searchText)
+    {
+        const searchTerm =
+            searchText.trim().toLowerCase();
+
+        const matches =
+            allDocs.filter(function(item)
+            {
+                return item.name
+                    .toLowerCase()
+                    .includes(searchTerm);
+            });
+
+        tableBody.innerHTML = "";
+
+        resultCount.textContent =
+            "Documents found: " + matches.length;
+
+        if (matches.length === 0)
+        {
+            const row =
+                document.createElement("tr");
+
+            const cell =
+                document.createElement("td");
+
+            cell.colSpan = 2;
+
+            cell.textContent =
+                "No documents found.";
+
+            row.appendChild(cell);
+
+            tableBody.appendChild(row);
+
+            return;
+        }
+
+        matches.forEach(function(item)
+        {
+            const row =
+                document.createElement("tr");
+
+            const nameCell =
+                document.createElement("td");
+
+            const categoryCell =
+                document.createElement("td");
+
+            const link =
+                document.createElement("a");
+
+            link.textContent = item.name;
+
+            link.href = item.file;
+
+            link.target = "_blank";
+
+            link.rel = "noopener";
+
+            nameCell.appendChild(link);
+
+            categoryCell.textContent =
+                item.category;
+
+            row.appendChild(nameCell);
+
+            row.appendChild(categoryCell);
+
+            tableBody.appendChild(row);
+        });
+    }
+
+    //
+    // Connect search box if required
+    //
+
+    if (searchMode)
+    {
+        const input =
+            document.getElementById("searchBox");
+
+        input.addEventListener(
+            "input",
+            function()
+            {
+                displayResults(input.value);
+            }
+        );
+    }
+
+    //
+    // Initial display
+    //
+
+    displayResults("");
+}
+
+
+    
+
