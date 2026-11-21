@@ -707,6 +707,13 @@ const documents =
             keywords: "Achyutha_stotram_Chakradhara_stotram",
             file: categoryFolders.M + "Achyutha_stotram_Chakradhara_stotram.pdf",
         },
+        {
+            id: "M005",
+            label: "Achyatha_ashtakam_shankaracharya_virachitam",
+            description: "Achyatha_ashtakam_shankaracharya_virachitam",
+            keywords: "Achyatha_ashtakam_shankaracharya_virachitam",
+            file: categoryFolders.M + "Achyatha_ashtakam_shankaracharya_virachitam.pdf",
+        },
     ],
     N:
     [

@@ -126,7 +126,11 @@ Category L folder Shri Narashimhar/
     Shri_Narasimha_stotram.pdf
 Category M folder Om Namo Naaraayanaaya/
     .DS_Store
+    Achyatha_ashtakam_shankaracharya_virachitam.pdf
     Achyutha_astakam.pdf
+    Achyutha_shatakam_vedantadeshika_virachitam.pdf
+    Achyutha_stotram_Chakradhara_stotram.pdf
+    Om_namo_Naaraayanaaya_Ashtaakshara_Maahaatmyam.pdf
 Category N folder Om Namah Shivaaya/
     .DS_Store
     Aapadhuddhaaraka_batuka_bhairava_dhyaanam.pdf
@@ -655,8 +659,7 @@ fonts/
     NotoSansTamil-Regular.ttf
     NotoSansTelugu-Regular.ttf
 .DS_Store
-Achyutha_shatakam_vedantadeshika_virachitam.pdf
-Achyutha_stotram_Chakradhara_stotram.pdf
+Achyatha_ashtakam_shankaracharya_virachitam.pdf
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
@@ -667,6 +670,5 @@ docs.js
 docs_A.js
 docs_all.js
 index.txt
-Om_namo_Naaraayanaaya_Ashtaakshara_Maahaatmyam.pdf
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt
