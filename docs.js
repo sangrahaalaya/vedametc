@@ -111,16 +111,29 @@ document.addEventListener(
         //
         
         document.getElementById("allDocumentsButton")
-            .addEventListener(
-                "click",
-                showAllDocuments
+    .addEventListener(
+        "click",
+        function()
+        {
+            setDocumentAction(
+                document.getElementById("allDocumentsButton")
             );
-        
-        document.getElementById("searchDocumentsButton")
-            .addEventListener(
-                "click",
-                showDocumentSearch
+
+            showAllDocuments();
+        }
+    );
+             document.getElementById("searchDocumentsButton")
+    .addEventListener(
+        "click",
+        function()
+        {
+            setDocumentAction(
+                document.getElementById("searchDocumentsButton")
             );
+
+            showDocumentSearch();
+        }
+    );
         //
         // Display Category A initially
         //
@@ -155,6 +168,13 @@ function showCategory(category)
         .getElementById("btnCategory" + category)
         .classList.add("active");
 
+    // Clear document action button selection
+document
+    .querySelectorAll("#documentActions button")
+    .forEach(function(button)
+    {
+        button.classList.remove("active");
+    });
     //
     // Clear previous buttons
     //
@@ -233,7 +253,20 @@ function showCategory(category)
         });
 }
 
+//
+// Highlight selected document action button
+//
+function setDocumentAction(activeButton)
+{
+    document
+        .querySelectorAll("#documentActions button")
+        .forEach(function(button)
+        {
+            button.classList.remove("active");
+        });
 
+    activeButton.classList.add("active");
+}
 //
 // Collect all documents from all categories
 //
