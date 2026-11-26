@@ -360,6 +360,27 @@ const documents =
             keywords: "Subrahmanya_ashtottaram",
             file: categoryFolders.G + "Subrahmanya_ashtottaram.pdf",
         },
+        {
+            id: "G002",
+            label: "Kaarthikeya_karaavalamba_stotram",
+            description: "Kaarthikeya_karaavalamba_stotram",
+            keywords: "Kaarthikeya_karaavalamba_stotram",
+            file: categoryFolders.G + "Kaarthikeya_karaavalamba_stotram.pdf",
+        },
+        {
+            id: "G003",
+            label: "Kaarthikeya_shata_ashtanaama_stotram_and_Naamaavalihi",
+            description: "Kaarthikeya_shata_ashtanaama_stotram_and_Naamaavalihi",
+            keywords: "Kaarthikeya_shata_ashtanaama_stotram_and_Naamaavalihi",
+            file: categoryFolders.G + "Kaarthikeya_shata_ashtanaama_stotram_and_Naamaavalihi.pdf",
+        },
+        {
+            id: "G004",
+            label: "Kaarthikeya_stotra_kadambam_by_Sringeri_guru",
+            description: "Kaarthikeya_stotra_kadambam_by_Sringeri_guru",
+            keywords: "Kaarthikeya_stotra_kadambam_by_Sringeri_guru",
+            file: categoryFolders.G + "Kaarthikeya_stotra_kadambam_by_Sringeri_guru.pdf",
+        },
     ],
     H:
     [

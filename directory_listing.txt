@@ -70,6 +70,9 @@ Category F folder Shri Mahasaraswathi/
     Saraswathi_ashtottharam.pdf
 Category G folder Shri Subramanya:Murugan/
     .DS_Store
+    Kaarthikeya_karaavalamba_stotram.pdf
+    Kaarthikeya_shata_ashtanaama_stotram_and_Naamaavalihi.pdf
+    Kaarthikeya_stotra_kadambam_by_Sringeri_guru.pdf
     Subrahmanya_ashtottaram.pdf
 Category H folder Guru/
     .DS_Store
@@ -670,5 +673,9 @@ docs.js
 docs_A.js
 docs_all.js
 index.txt
+Kaarthikeya_karaavalamba_stotram.pdf
+Kaarthikeya_shata_ashtanaama_stotram_and_Naamaavalihi.pdf
+Kaarthikeya_stotra_kadambam_by_Sringeri_guru.pdf
+Sri_Rudram_Namakam_Chamakam_English_Telugu.InlineMeanings.pdf
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt
