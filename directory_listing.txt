@@ -70,9 +70,13 @@ Category F folder Shri Mahasaraswathi/
     Saraswathi_ashtottharam.pdf
 Category G folder Shri Subramanya:Murugan/
     .DS_Store
+    Baahuleya_stavam_shri_neelakunta_theertha_swami_virachitham.pdf
+    Devasenaa_sahasranaama_stotram_and_naamaavalihi.pdf
     Kaarthikeya_karaavalamba_stotram.pdf
     Kaarthikeya_shata_ashtanaama_stotram_and_Naamaavalihi.pdf
     Kaarthikeya_stotra_kadambam_by_Sringeri_guru.pdf
+    Muruga_ashtakam.pdf
+    Shakra_virachitham_laghu_kumaara_stotram.pdf
     Subrahmanya_ashtottaram.pdf
 Category H folder Guru/
     .DS_Store
@@ -663,9 +667,11 @@ fonts/
     NotoSansTelugu-Regular.ttf
 .DS_Store
 Achyatha_ashtakam_shankaracharya_virachitam.pdf
+Baahuleya_stavam_shri_neelakunta_theertha_swami_virachitham.pdf
 configuration_doc.xlsx
 convert_text_to_pdf.py
 create_jscpy.py
+Devasenaa_sahasranaama_stotram_and_naamaavalihi.pdf
 directory_listing _has additional_docs_needed.txt
 directory_listing.py
 directory_listing.txt
@@ -673,9 +679,8 @@ docs.js
 docs_A.js
 docs_all.js
 index.txt
-Kaarthikeya_karaavalamba_stotram.pdf
-Kaarthikeya_shata_ashtanaama_stotram_and_Naamaavalihi.pdf
-Kaarthikeya_stotra_kadambam_by_Sringeri_guru.pdf
+Muruga_ashtakam.pdf
+Shakra_virachitham_laghu_kumaara_stotram.pdf
 Sri_Rudram_Namakam_Chamakam_English_Telugu.InlineMeanings.pdf
 temp.txt
 temp_used_for_temp_updates_to_code_doc.txt

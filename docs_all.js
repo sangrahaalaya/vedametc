@@ -381,6 +381,34 @@ const documents =
             keywords: "Kaarthikeya_stotra_kadambam_by_Sringeri_guru",
             file: categoryFolders.G + "Kaarthikeya_stotra_kadambam_by_Sringeri_guru.pdf",
         },
+        {
+            id: "G005",
+            label: "Baahuleya_stavam_shri_neelakunta_theertha_swami_virachitham",
+            description: "Baahuleya_stavam_shri_neelakunta_theertha_swami_virachitham",
+            keywords: "Baahuleya_stavam_shri_neelakunta_theertha_swami_virachitham",
+            file: categoryFolders.G + "Baahuleya_stavam_shri_neelakunta_theertha_swami_virachitham.pdf",
+        },
+        {
+            id: "G006",
+            label: "Devasenaa_sahasranaama_stotram_and_naamaavalihi",
+            description: "Devasenaa_sahasranaama_stotram_and_naamaavalihi",
+            keywords: "Devasenaa_sahasranaama_stotram_and_naamaavalihi",
+            file: categoryFolders.G + "Devasenaa_sahasranaama_stotram_and_naamaavalihi.pdf",
+        },
+        {
+            id: "G007",
+            label: "Muruga_ashtakam",
+            description: "Muruga_ashtakam",
+            keywords: "Muruga_ashtakam",
+            file: categoryFolders.G + "Muruga_ashtakam.pdf",
+        },
+        {
+            id: "G008",
+            label: "Shakra_virachitham_laghu_kumaara_stotram",
+            description: "Shakra_virachitham_laghu_kumaara_stotram",
+            keywords: "Shakra_virachitham_laghu_kumaara_stotram",
+            file: categoryFolders.G + "Shakra_virachitham_laghu_kumaara_stotram.pdf",
+        },
     ],
     H:
     [
